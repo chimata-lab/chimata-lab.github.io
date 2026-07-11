@@ -1,0 +1,19 @@
+<div class="chat-message {{ include.message.side }}">
+
+    <div class="chat-speaker">
+        <img
+            src="{{ include.message.icon }}"
+            alt=""
+            class="chat-icon"
+        >
+
+        <span class="chat-name">
+            {{ include.message.speaker }}
+        </span>
+    </div>
+
+    <div class="chat-bubble">
+        {{ include.message.text | escape | newline_to_br }}
+    </div>
+
+</div>

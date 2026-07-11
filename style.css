@@ -160,3 +160,92 @@ h1 {
     padding-top: 15px;
     border-top: 1px dotted #8a9a75;
 }
+.visitor-counter {
+    text-align: center;
+    padding: 10px;
+    border: 3px double #4d6b42;
+    background-color: #fffdf5;
+}
+
+.visitor-counter img {
+    image-rendering: pixelated;
+}
+/* ---------- 会話作品 ---------- */
+
+.chat-work {
+    max-width: 700px;
+    margin: 0 auto;
+}
+
+.chat-description {
+    margin-bottom: 35px;
+    color: #68745f;
+}
+
+.conversation {
+    padding: 20px 0;
+}
+
+.chat-message {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 28px;
+}
+
+.chat-message.left {
+    align-items: flex-start;
+}
+
+.chat-message.right {
+    align-items: flex-end;
+}
+
+.chat-speaker {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    margin-bottom: 5px;
+}
+
+.chat-message.right .chat-speaker {
+    flex-direction: row-reverse;
+}
+
+.chat-icon {
+    width: 42px;
+    height: 42px;
+    object-fit: cover;
+    border: 2px solid #56744c;
+    border-radius: 50%;
+    background-color: white;
+}
+
+.chat-name {
+    font-size: 14px;
+    font-weight: bold;
+}
+
+.chat-bubble {
+    position: relative;
+    max-width: 75%;
+    padding: 12px 16px;
+    line-height: 1.8;
+    background-color: #fffdf5;
+    border: 2px solid #8a9a75;
+    border-radius: 14px;
+}
+
+.chat-message.left .chat-bubble {
+    margin-left: 25px;
+}
+
+.chat-message.right .chat-bubble {
+    margin-right: 25px;
+    background-color: #e4efd8;
+}
+
+@media (max-width: 700px) {
+    .chat-bubble {
+        max-width: 85%;
+    }
+}

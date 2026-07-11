@@ -1,0 +1,420 @@
+- speaker: 黒丸
+  side: right
+  icon: /images/characters/kuromaru.png
+  text: |-
+    それでは、改めまして。よろしくお願いします。
+
+- speaker: 莉波
+  side: left
+  icon: /images/characters/rinami.png
+  text: |-
+    は、はい！よろしくお願いします！
+
+- speaker: 黒丸
+  side: right
+  icon: /images/characters/kuromaru.png
+  text: |-
+    そんなにかしこまらないでください。昔みたいに、くだけた感じでお願いします。
+
+- speaker: 莉波
+  side: left
+  icon: /images/characters/rinami.png
+  text: |-
+    でも、黒丸さんは年上なんだし、プロデューサーなんだから、そこはきちんとしないと。
+
+- speaker: 黒丸
+  side: right
+  icon: /images/characters/kuromaru.png
+  text: |-
+    年上なんて気にしないでください。あなたは――
+
+- speaker: 黒丸
+  side: right
+  icon: /images/characters/kuromaru.png
+  text: |-
+    今もずっと、私のお兄ちゃんなんです。
+
+- speaker: 莉波
+  side: left
+  icon: /images/characters/rinami.png
+  text: |-
+    ……莉波お兄ちゃんって、呼んでくれないのに？
+
+- speaker: 黒丸
+  side: right
+  icon: /images/characters/kuromaru.png
+  text: |-
+    それはまた別の問題です。
+
+- speaker: 莉波
+  side: left
+  icon: /images/characters/rinami.png
+  text: |-
+    ……わかった。じゃあ、敬語はやめるよ。
+
+- speaker: 黒丸
+  side: right
+  icon: /images/characters/kuromaru.png
+  text: |-
+    ありがとうございます。では、さっそくなのですが、
+
+- speaker: 黒丸
+  side: right
+  icon: /images/characters/kuromaru.png
+  text: |-
+    姫崎さんの現状を、あらためて確認しましょう。
+
+- speaker: 莉波
+  side: left
+  icon: /images/characters/rinami.png
+  text: |-
+    あ、ああ。ええっと……
+
+- speaker: 莉波
+  side: left
+  icon: /images/characters/rinami.png
+  text: |-
+    一年生の時、ユニットに入れてもらったんだけど、
+
+- speaker: 莉波
+  side: left
+  icon: /images/characters/rinami.png
+  text: |-
+    俺だけぜんぜん人気がでなくて、ユニットから外されたんだ。
+
+- speaker: 黒丸
+  side: right
+  icon: /images/characters/kuromaru.png
+  text: |-
+    人気が出なかった理由に、心当たりはありますか？
+
+- speaker: 莉波
+  side: left
+  icon: /images/characters/rinami.png
+  text: |-
+    その……
+
+- speaker: 莉波
+  side: left
+  icon: /images/characters/rinami.png
+  text: |-
+    他のメンバーは背が低くてかわいい少年系だったんだけど、俺、みんなに比べて背も高いし、ガタイも良くて……
+
+- speaker: 莉波
+  side: left
+  icon: /images/characters/rinami.png
+  text: |-
+    ユニットの中で1人だけ、浮いていたんだと思う。
+
+- speaker: 莉波
+  side: left
+  icon: /images/characters/rinami.png
+  text: |-
+    みんなと合わせようとはしたんだけど、そうすればするほど空回りして……
+
+- speaker: 莉波
+  side: left
+  icon: /images/characters/rinami.png
+  text: |-
+    俺ってアイドル向いてないのかなって、思ってたんだ。
+
+- speaker: 黒丸
+  side: right
+  icon: /images/characters/kuromaru.png
+  text: |-
+    でも、まだ諦めてない。
+
+- speaker: 莉波
+  side: left
+  icon: /images/characters/rinami.png
+  text: |-
+    ……うん、そうだな。
+
+- speaker: 莉波
+  side: left
+  icon: /images/characters/rinami.png
+  text: |-
+    まだ諦めないよ。俺、アイドルが好きだから。
+
+- speaker: 黒丸
+  side: right
+  icon: /images/characters/kuromaru.png
+  text: |-
+    姫崎さんは――どうして、アイドルになろうと？
+
+- speaker: 莉波
+  side: left
+  icon: /images/characters/rinami.png
+  text: |-
+    ……最初は、なんとなくだったんだ。
+
+- speaker: 莉波
+  side: left
+  icon: /images/characters/rinami.png
+  text: |-
+    母親にちょっとテレビに出てみたいって言ったら
+
+- speaker: 莉波
+  side: left
+  icon: /images/characters/rinami.png
+  text: |-
+    勝手にこの学校に願書出されていて…
+
+
+- speaker: 莉波
+  side: left
+  icon: /images/characters/rinami.png
+  text: |-
+    ……でも、この学園で過ごしてみて、
+
+- speaker: 莉波
+  side: left
+  icon: /images/characters/rinami.png
+  text: |-
+    クラスの友達が、ステージの上で、みんな輝いているのを見て、
+
+- speaker: 莉波
+  side: left
+  icon: /images/characters/rinami.png
+  text: |-
+    俺もあんな風になりたいって、真剣にやってみようって思ったんだ。
+
+- speaker: 莉波
+  side: left
+  icon: /images/characters/rinami.png
+  text: |-
+    最近はちょっと自信なくしかけてたけど……
+
+- speaker: 莉波
+  side: left
+  icon: /images/characters/rinami.png
+  text: |-
+    黒丸が声をかけてくれた。黒丸と一緒なら――
+
+- speaker: 莉波
+  side: left
+  icon: /images/characters/rinami.png
+  text: |-
+    俺が一番好きだった、あの頃の自分に戻れる気がする。
+
+- speaker: 黒丸
+  side: right
+  icon: /images/characters/kuromaru.png
+  text: |-
+    ……姫崎さん。
+
+- speaker: 黒丸
+  side: right
+  icon: /images/characters/kuromaru.png
+  text: |-
+    憧れを語る今のあなたは、とても魅力的に見えました。
+
+- speaker: 黒丸
+  side: right
+  icon: /images/characters/kuromaru.png
+  text: |-
+    覚えていますか。夏休みの、あの日――
+
+- speaker: 莉波
+  side: left
+  icon: /images/characters/rinami.png
+  text: |-
+    ……うん。
+
+- speaker: 黒丸
+  side: right
+  icon: /images/characters/kuromaru.png
+  text: |-
+    あなたはひとりぼっちだった子供の私に、優しく声をかけてくれました。
+
+- speaker: 黒丸
+  side: right
+  icon: /images/characters/kuromaru.png
+  text: |-
+    ひと夏の、ほんの短い時間でしたが、ずっと一緒に遊んでくれた。
+
+- speaker: 莉波
+  side: left
+  icon: /images/characters/rinami.png
+  text: |-
+    ……懐かしいな。
+
+- speaker: 莉波
+  side: left
+  icon: /images/characters/rinami.png
+  text: |-
+    小さい女の子が1人でバス停のそばで、寂しそうにしてたのを見かけて、
+
+- speaker: 莉波
+  side: left
+  icon: /images/characters/rinami.png
+  text: |-
+    思わず、声をかけたんだ。
+
+- speaker: 莉波
+  side: left
+  icon: /images/characters/rinami.png
+  text: |-
+    あのときは年上だなんて、ぜんぜん気づかなかった。
+
+- speaker: 黒丸
+  side: right
+  icon: /images/characters/kuromaru.png
+  text: |-
+    まだ子供でしたからね。
+
+- speaker: 莉波
+  side: left
+  icon: /images/characters/rinami.png
+  text: |-
+    妹みたいに懐いてきて、ふたりで日が暮れるまで遊んだな。
+
+- speaker: 黒丸
+  side: right
+  icon: /images/characters/kuromaru.png
+  text: |-
+    川でずぶ濡れになって。
+
+- speaker: 莉波
+  side: left
+  icon: /images/characters/rinami.png
+  text: |-
+    そうそう！頭までびっしょりになって。
+
+- speaker: 莉波
+  side: left
+  icon: /images/characters/rinami.png
+  text: |-
+    駄菓子屋さんでアイスを買って、半分こしたりして、
+
+- speaker: 黒丸
+  side: right
+  icon: /images/characters/kuromaru.png
+  text: |-
+    あなたは、私が行ったことがない世界にどんどん連れていってくれて、なんでもできて……
+
+- speaker: 黒丸
+  side: right
+  icon: /images/characters/kuromaru.png
+  text: |-
+    私には兄がいなかったので――あなたが、理想のお兄さんでした。
+
+- speaker: 莉波
+  side: left
+  icon: /images/characters/rinami.png
+  text: |-
+    ……そうか。なんだか照れるな……
+
+- speaker: 黒丸
+  side: right
+  icon: /images/characters/kuromaru.png
+  text: |-
+    姫崎莉波さん――
+
+- speaker: 莉波
+  side: left
+  icon: /images/characters/rinami.png
+  text: |-
+    ……は、はい！
+
+- speaker: 黒丸
+  side: right
+  icon: /images/characters/kuromaru.png
+  text: |-
+    あなたには魅力があります。あなた自身を含めて――
+
+- speaker: 黒丸
+  side: right
+  icon: /images/characters/kuromaru.png
+  text: |-
+    まだ誰も気づいていない、アイドルとしての魅力が。
+
+- speaker: 莉波
+  side: left
+  icon: /images/characters/rinami.png
+  text: |-
+    でも、俺だけぜんぜん人気がなくて……
+
+- speaker: 黒丸
+  side: right
+  icon: /images/characters/kuromaru.png
+  text: |-
+    それは、あなたの魅力が、うまく伝わらなかっただけです。
+
+- speaker: 黒丸
+  side: right
+  icon: /images/characters/kuromaru.png
+  text: |-
+    あなたの本当の魅力を引き出せば、トップアイドルにだってなれる。
+
+- speaker: 莉波
+  side: left
+  icon: /images/characters/rinami.png
+  text: |-
+    ……っ、トップアイドル？俺が？
+
+- speaker: 黒丸
+  side: right
+  icon: /images/characters/kuromaru.png
+  text: |-
+    はい。
+
+- speaker: 莉波
+  side: left
+  icon: /images/characters/rinami.png
+  text: |-
+    お、俺はただ、ステージに立てれば、それでよくて、
+
+- speaker: 莉波
+  side: left
+  icon: /images/characters/rinami.png
+  text: |-
+    トップアイドルなんて、そんな……
+
+- speaker: 黒丸
+  side: right
+  icon: /images/characters/kuromaru.png
+  text: |-
+    プロデュースするからには、絶対にトップアイドルにしてみせます。
+
+- speaker: 黒丸
+  side: right
+  icon: /images/characters/kuromaru.png
+  text: |-
+    あなたを――最高のステージに立たせたい。
+
+- speaker: 莉波
+  side: left
+  icon: /images/characters/rinami.png
+  text: |-
+    ……！？
+
+- speaker: 黒丸
+  side: right
+  icon: /images/characters/kuromaru.png
+  text: |-
+    そのための秘策もあります。
+
+- speaker: 莉波
+  side: left
+  icon: /images/characters/rinami.png
+  text: |-
+    ……秘策？
+
+- speaker: 黒丸
+  side: right
+  icon: /images/characters/kuromaru.png
+  text: |-
+    はい、まずは――
+
+- speaker: 黒丸
+  side: right
+  icon: /images/characters/kuromaru.png
+  text: |-
+    私のお兄ちゃんになってください。
+
+- speaker: 莉波
+  side: left
+  icon: /images/characters/rinami.png
+  text: |-
+    ……ええっ？

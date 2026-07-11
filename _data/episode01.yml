@@ -1,0 +1,315 @@
+- speaker: 黒丸
+  side: right
+  icon: /images/characters/kuromaru.png
+  text: |-
+    すみません。少しよろしいでしょうか。
+
+- speaker: 莉波
+  side: left
+  icon: /images/characters/rinami.png
+  text: |-
+    はい！どうしましたか？何かお困りですか？
+
+- speaker: 黒丸
+  side: right
+  icon: /images/characters/kuromaru.png
+  text: |-
+    黒丸と申します。
+    プロデューサー科の1年で——
+
+- speaker: 莉波
+  side: left
+  icon: /images/characters/rinami.png
+  text: |-
+    ……っ！？
+
+- speaker: 黒丸
+  side: right
+  icon: /images/characters/kuromaru.png
+  text: |-
+    どうかしましたか？
+
+- speaker: 莉波
+  side: left
+  icon: /images/characters/rinami.png
+  text: |-
+    え、えっと……
+    すみません。
+
+- speaker: 莉波
+  side: left
+  icon: /images/characters/rinami.png
+  text: |-
+    少し……いえ、すごく、驚いて……
+
+- speaker: 莉波
+  side: left
+  icon: /images/characters/rinami.png
+  text: |-
+    あの！
+    俺……僕、のこと……覚えて、ますか？
+
+- speaker: 黒丸
+  side: right
+  icon: /images/characters/kuromaru.png
+  text: |-
+    姫崎莉波さん、ですよね。
+    もちろん、覚えています。
+    子供の頃、お世話になりました。
+
+- speaker: 莉波
+  side: left
+  icon: /images/characters/rinami.png
+  text: |-
+    よかった……覚えていてくれて。
+
+- speaker: 莉波
+  side: left
+  icon: /images/characters/rinami.png
+  text: |-
+    不思議だなぁ。
+    どこに行くにも「莉波お兄ちゃん、莉波お兄ちゃん」ってついてきていた黒丸が、
+
+- speaker: 莉波
+  side: left
+  icon: /images/characters/rinami.png
+  text: |-
+    こんな素敵なプロデューサーになってるなんて……
+
+- speaker: 莉波
+  side: left
+  icon: /images/characters/rinami.png
+  text: |-
+    ……あ、すまん！
+    つい懐かしくて、昔みたいに話してしまって……
+
+- speaker: 莉波
+  side: left
+  icon: /images/characters/rinami.png
+  text: |-
+    ちゃんと敬語で話します。
+
+- speaker: 黒丸
+  side: right
+  icon: /images/characters/kuromaru.png
+  text: |-
+    いえ、どうか、
+    昔のように話してください。
+
+- speaker: 莉波
+  side: left
+  icon: /images/characters/rinami.png
+  text: |-
+    えっ！？
+    だ、だめですよ！
+
+- speaker: 莉波
+  side: left
+  icon: /images/characters/rinami.png
+  text: |-
+    年上の先輩で、目上の人なんだし……
+
+- speaker: 黒丸
+  side: right
+  icon: /images/characters/kuromaru.png
+  text: |-
+    構いません。
+    かなりくだけた感じで接してくる方も、割と多いと聞きますので。
+
+- speaker: 莉波
+  side: left
+  icon: /images/characters/rinami.png
+  text: |-
+    そ、そうか……？
+
+- speaker: 莉波
+  side: left
+  icon: /images/characters/rinami.png
+  text: |-
+    じゃあ、今だけ……
+
+- speaker: 莉波
+  side: left
+  icon: /images/characters/rinami.png
+  text: |-
+    黒丸は、昔みたいに呼んでくれないのか？
+
+- speaker: 莉波
+  side: left
+  icon: /images/characters/rinami.png
+  text: |-
+    「莉波お兄ちゃん」って。
+
+- speaker: 黒丸
+  side: right
+  icon: /images/characters/kuromaru.png
+  text: |-
+    …………………………イヤ、です。
+
+- speaker: 莉波
+  side: left
+  icon: /images/characters/rinami.png
+  text: |-
+    どうして？
+
+- speaker: 黒丸
+  side: right
+  icon: /images/characters/kuromaru.png
+  text: |-
+    年下のアイドルをお兄ちゃんと呼ぶのは……
+    その、人の目もありますし。
+
+- speaker: 莉波
+  side: left
+  icon: /images/characters/rinami.png
+  text: |-
+    そ、そうか？
+
+- speaker: 莉波
+  side: left
+  icon: /images/characters/rinami.png
+  text: |-
+    ……こほん。
+    冗談はさておいて、
+
+- speaker: 莉波
+  side: left
+  icon: /images/characters/rinami.png
+  text: |-
+    ここに来たのは、スカウトのためか？
+
+- speaker: 黒丸
+  side: right
+  icon: /images/characters/kuromaru.png
+  text: |-
+    はい。
+
+- speaker: 莉波
+  side: left
+  icon: /images/characters/rinami.png
+  text: |-
+    よかったら、案内しようか？
+    寮のみんなのことなら、だいたいわかるし——
+
+- speaker: 黒丸
+  side: right
+  icon: /images/characters/kuromaru.png
+  text: |-
+    いいえ、それには及びません。
+    探していた人は、目の前にいますので。
+
+- speaker: 莉波
+  side: left
+  icon: /images/characters/rinami.png
+  text: |-
+    えっ？
+    そ、それって……
+
+- speaker: 黒丸
+  side: right
+  icon: /images/characters/kuromaru.png
+  text: |-
+    あなたをスカウトしにきたんです——
+    姫崎莉波さん。
+
+- speaker: 黒丸
+  side: right
+  icon: /images/characters/kuromaru.png
+  text: |-
+    あなたをプロデュースさせてください。
+
+- speaker: 莉波
+  side: left
+  icon: /images/characters/rinami.png
+  text: |-
+    ……——！？
+
+- speaker: 莉波
+  side: left
+  icon: /images/characters/rinami.png
+  text: |-
+    俺で、いいのか？
+
+- speaker: 黒丸
+  side: right
+  icon: /images/characters/kuromaru.png
+  text: |-
+    あなたがいいんです。
+
+- speaker: 莉波
+  side: left
+  icon: /images/characters/rinami.png
+  text: |-
+    でも、俺……
+    もう3年生なのに、全然ダメで、
+
+- speaker: 莉波
+  side: left
+  icon: /images/characters/rinami.png
+  text: |-
+    ここを卒業したら、アイドルはやめようって思ってて、
+
+- speaker: 莉波
+  side: left
+  icon: /images/characters/rinami.png
+  text: |-
+    黒丸の求めるようなアイドルには、きっと、なれないと思う……
+
+- speaker: 黒丸
+  side: right
+  icon: /images/characters/kuromaru.png
+  text: |-
+    そんなことはありません。
+    あなたの魅力は、誰よりもよく知っているつもりです。
+
+- speaker: 黒丸
+  side: right
+  icon: /images/characters/kuromaru.png
+  text: |-
+    約束します。あなたを——
+    最高のアイドルにしてみせます。
+
+- speaker: 莉波
+  side: left
+  icon: /images/characters/rinami.png
+  text: |-
+    ……——。
+
+- speaker: 莉波
+  side: left
+  icon: /images/characters/rinami.png
+  text: |-
+    ……立派になったな。すごく。
+
+- speaker: 莉波
+  side: left
+  icon: /images/characters/rinami.png
+  text: |-
+    もう、あの頃みたいに、妹扱いなんてできない。
+
+- speaker: 莉波
+  side: left
+  icon: /images/characters/rinami.png
+  text: |-
+    ……うん。わかりました。
+    スカウト、謹んでお受けします。
+
+- speaker: 莉波
+  side: left
+  icon: /images/characters/rinami.png
+  text: |-
+    改めて、よろしく。
+    黒丸。
+
+- speaker: 莉波
+  side: left
+  icon: /images/characters/rinami.png
+  text: |-
+    じゃなくて——
+
+- speaker: 莉波
+  side: left
+  icon: /images/characters/rinami.png
+  text: |-
+    よろしくお願いします。
+    プロデューサーさん。
