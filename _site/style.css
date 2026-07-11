@@ -123,3 +123,40 @@ h1 {
     padding: 8px;
     background: white;
 }
+/* ---------- 日記 ---------- */
+
+.diary-list {
+    padding-left: 0;
+    list-style: none;
+}
+
+.diary-list li {
+    padding: 10px 0;
+    border-bottom: 1px dotted #8a9a75;
+}
+
+.diary-list time {
+    display: inline-block;
+    width: 110px;
+    font-family: monospace;
+}
+
+.diary-entry {
+    line-height: 1.8;
+}
+
+.diary-date {
+    color: #68745f;
+    font-size: 14px;
+    text-align: right;
+}
+
+.diary-body {
+    margin-top: 30px;
+}
+
+.back-link {
+    margin-top: 40px;
+    padding-top: 15px;
+    border-top: 1px dotted #8a9a75;
+}

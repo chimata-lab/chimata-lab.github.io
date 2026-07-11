@@ -1,0 +1,26 @@
+---
+layout: default
+title: 日記
+---
+
+<h1>日記</h1>
+
+<p>徒然なるままに、日々是好日的なあれ。</p>
+
+<ul class="diary-list">
+
+    {% for post in site.posts %}
+
+        <li>
+            <time datetime="{{ post.date | date: '%Y-%m-%d' }}">
+                {{ post.date | date: "%Y.%m.%d" }}
+            </time>
+
+            <a href="{{ post.url }}">
+                {{ post.title }}
+            </a>
+        </li>
+
+    {% endfor %}
+
+</ul>
