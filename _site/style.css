@@ -78,6 +78,15 @@ h1 {
 .sidebar {
     ...
 }
+
+/* ---------- サイドバーwevebox ---------- */
+.wavebox-logo {
+    width: 120px;
+    height: auto;
+    display: block;
+    margin: 10px auto;
+}
+
 /* ---------- 好きなもの一覧 ---------- */
 
 .favorites-grid {
@@ -179,7 +188,7 @@ h1 {
 
 .chat-description {
     margin-bottom: 35px;
-    color: #5aba11;
+    color: #68745f;
 }
 
 .conversation {
@@ -230,7 +239,7 @@ h1 {
     max-width: 75%;
     padding: 12px 16px;
     line-height: 1.8;
-    background-color: #898884;
+    background-color: #e0dfde;
     border-radius: 14px;
 }
 
@@ -254,9 +263,14 @@ h1 {
     background-color: rgba(249, 196, 214, 0.6);
 }
 
+
 .speaker-麻央 .chat-bubble {
     background-color: rgba(164, 83, 166, 0.4);
 }
+
+.speaker-ことね .chat-bubble {
+    background-color: rgba(250,211,86, 0.4);
+
 /* ---------- ノベルページ：スマホ対応 ---------- */
 
 @media (max-width: 700px) {

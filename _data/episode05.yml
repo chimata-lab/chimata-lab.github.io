@@ -1,0 +1,366 @@
+- speaker: 莉波
+  side: left
+  icon: /images/characters/rinami.png
+  text: |-
+    み、みんなのお兄さん、
+    姫崎莉波だっ！
+
+- speaker: 莉波
+  side: left
+  icon: /images/characters/rinami.png
+  text: |-
+    一生懸命がんばるからさ、
+    応援よろしくなっ！
+
+- speaker: 観客
+  side: left
+  icon: /images/characters/audience.png
+  text: |-
+    あ、ライブやってる。
+    お兄さんキャラのアイドルかー。
+
+- speaker: 観客
+  side: left
+  icon: /images/characters/audience.png
+  text: |-
+    がんばってるね〜。
+
+- speaker: 莉波
+  side: left
+  icon: /images/characters/rinami.png
+  text: |-
+    あ、ありがとうございましたっ！
+
+- speaker: 莉波
+  side: left
+  icon: /images/characters/rinami.png
+  text: |-
+    ……はぁ。難しいな……
+    急にお兄さんにはなれないよ。
+
+- speaker: 黒丸
+  side: right
+  icon: /images/characters/kuromaru.png
+  text: |-
+    気を落とさないでください。
+    たしかに、まだぎこちないですが、
+
+- speaker: 黒丸
+  side: right
+  icon: /images/characters/kuromaru.png
+  text: |-
+    姫崎さん本来の、
+    自然体の魅力を出せるようになれば、
+
+- speaker: 黒丸
+  side: right
+  icon: /images/characters/kuromaru.png
+  text: |-
+    きっとお客さんの心を掴めます。
+
+- speaker: ことね
+  side: left
+  icon: /images/characters/kotone.png
+  text: |-
+    あ〜っ、莉波先輩！
+
+- speaker: 莉波
+  side: left
+  icon: /images/characters/rinami.png
+  text: |-
+    あ、ことね。
+    こんにちは。
+
+- speaker: ことね
+  side: left
+  icon: /images/characters/kotone.png
+  text: |-
+    さっきの先輩のミニライブ、
+    見てましたよぉ〜。
+
+- speaker: 莉波
+  side: left
+  icon: /images/characters/rinami.png
+  text: |-
+    本当か！？
+    ……ありがとな。
+
+- speaker: ことね
+  side: left
+  icon: /images/characters/kotone.png
+  text: |-
+    いえいえ、当然ですよぉ。
+
+- speaker: ことね
+  side: left
+  icon: /images/characters/kotone.png
+  text: |-
+    莉波先輩は、おれたちの
+    お兄さんなんですからっ。
+
+- speaker: ことね
+  side: left
+  icon: /images/characters/kotone.png
+  text: |-
+    莉波先輩すっごくかっこよくて、
+    もー最高でしたっ！
+
+- speaker: ことね
+  side: left
+  icon: /images/characters/kotone.png
+  text: |-
+    寮のみんなも、うしろのほうで、
+    応援してましたよっ。
+
+- speaker: 莉波
+  side: left
+  icon: /images/characters/rinami.png
+  text: |-
+    みんなも？
+    そうか……
+
+- speaker: 莉波
+  side: left
+  icon: /images/characters/rinami.png
+  text: |-
+    嬉しいけど……
+    なんだか、恥ずかしいな。
+
+- speaker: 黒丸
+  side: right
+  icon: /images/characters/kuromaru.png
+  text: |-
+    ——藤田ことねさん、ですね。
+
+- speaker: ことね
+  side: left
+  icon: /images/characters/kotone.png
+  text: |-
+    あっ……えーっと……
+    莉波先輩のプロデューサーさん？
+
+- speaker: ことね
+  side: left
+  icon: /images/characters/kotone.png
+  text: |-
+    お疲れ様ですっ。
+
+- speaker: 黒丸
+  side: right
+  icon: /images/characters/kuromaru.png
+  text: |-
+    つかぬことを伺いますが——
+
+- speaker: 黒丸
+  side: right
+  icon: /images/characters/kuromaru.png
+  text: |-
+    先ほどの姫崎さんのライブ、
+    率直に、どう思いましたか？
+
+- speaker: 莉波
+  side: left
+  icon: /images/characters/rinami.png
+  text: |-
+    ……！？
+
+- speaker: ことね
+  side: left
+  icon: /images/characters/kotone.png
+  text: |-
+    ……う〜ん、そうですねぇ〜。
+
+- speaker: ことね
+  side: left
+  icon: /images/characters/kotone.png
+  text: |-
+    もちろん、めちゃくちゃよかったです！
+    よかったんですけどぉ……
+
+- speaker: ことね
+  side: left
+  icon: /images/characters/kotone.png
+  text: |-
+    なんていうか……
+    ちょっと、無理してるっていうかぁ……
+
+- speaker: ことね
+  side: left
+  icon: /images/characters/kotone.png
+  text: |-
+    笑顔が固い感じ……？
+    ですかねぇ……
+
+- speaker: ことね
+  side: left
+  icon: /images/characters/kotone.png
+  text: |-
+    ……その、普段の笑顔のほうが、
+    おれは好きかなって思いますっ！
+
+- speaker: 莉波
+  side: left
+  icon: /images/characters/rinami.png
+  text: |-
+    ……——。
+
+- speaker: ことね
+  side: left
+  icon: /images/characters/kotone.png
+  text: |-
+    あ、でも……
+
+- speaker: ことね
+  side: left
+  icon: /images/characters/kotone.png
+  text: |-
+    莉波先輩のカッコいいとことか、
+    お客さんを大切にしてるとこ、
+
+- speaker: ことね
+  side: left
+  icon: /images/characters/kotone.png
+  text: |-
+    先輩のこと知ってるおれたちには、
+    ちゃーんと、伝わってましたよっ！
+
+- speaker: 莉波
+  side: left
+  icon: /images/characters/rinami.png
+  text: |-
+    ことね……
+
+- speaker: ことね
+  side: left
+  icon: /images/characters/kotone.png
+  text: |-
+    だから、莉波先輩のいいところ、
+    もっといっぱい知ってもらえたらぁ
+
+- speaker: ことね
+  side: left
+  icon: /images/characters/kotone.png
+  text: |-
+    みんな、先輩のとりこになっちゃうと
+    思いますっ！
+
+- speaker: ことね
+  side: left
+  icon: /images/characters/kotone.png
+  text: |-
+    あ、おれ、これからバイトなんで！
+    失礼しますね、先輩っ！
+
+- speaker: 莉波
+  side: left
+  icon: /images/characters/rinami.png
+  text: |-
+    ことね！ありがとな！
+
+- speaker: 黒丸
+  side: right
+  icon: /images/characters/kuromaru.png
+  text: |-
+    とても慕われているようですね。
+
+- speaker: 莉波
+  side: left
+  icon: /images/characters/rinami.png
+  text: |-
+    寮は年下の子が多くて、
+    みんな弟みたいなものだから。
+
+- speaker: 莉波
+  side: left
+  icon: /images/characters/rinami.png
+  text: |-
+    いろいろ勝手に世話を焼いてたら、
+
+- speaker: 莉波
+  side: left
+  icon: /images/characters/rinami.png
+  text: |-
+    いつのまにか、みんなの
+    お兄さんみたいになって……
+
+- speaker: 黒丸
+  side: right
+  icon: /images/characters/kuromaru.png
+  text: |-
+    それが、あなたの素質ですよ。
+
+- speaker: 莉波
+  side: left
+  icon: /images/characters/rinami.png
+  text: |-
+    ……？
+
+- speaker: 黒丸
+  side: right
+  icon: /images/characters/kuromaru.png
+  text: |-
+    優しさ、気遣い、頼りがい……
+
+- speaker: 黒丸
+  side: right
+  icon: /images/characters/kuromaru.png
+  text: |-
+    それを自然に表現できるのが、
+    あなたの一番の魅力です。
+
+- speaker: 黒丸
+  side: right
+  icon: /images/characters/kuromaru.png
+  text: |-
+    その魅力を、こんどは、
+    ステージ上で出せるようにしましょう。
+
+- speaker: 莉波
+  side: left
+  icon: /images/characters/rinami.png
+  text: |-
+    ……ああ。やってみる。
+
+- speaker: 莉波
+  side: left
+  icon: /images/characters/rinami.png
+  text: |-
+    応援してくれる
+    みんなのためにも、な。
+
+- speaker: 黒丸
+  side: right
+  icon: /images/characters/kuromaru.png
+  text: |-
+    その意気です。
+
+- speaker: 黒丸
+  side: right
+  icon: /images/characters/kuromaru.png
+  text: |-
+    まずはライブをこなして、
+    ステージでの経験を積みましょう。
+
+- speaker: 莉波
+  side: left
+  icon: /images/characters/rinami.png
+  text: |-
+    ライブ？
+
+- speaker: 黒丸
+  side: right
+  icon: /images/characters/kuromaru.png
+  text: |-
+    実戦に勝るものはありませんから。
+
+- speaker: 黒丸
+  side: right
+  icon: /images/characters/kuromaru.png
+  text: |-
+    どんどんこなしてもらいますよ。
+
+- speaker: 莉波
+  side: left
+  icon: /images/characters/rinami.png
+  text: |-
+    ……ああ、頑張るよ！
