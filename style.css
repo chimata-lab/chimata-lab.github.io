@@ -73,11 +73,6 @@ h1 {
     height: auto;
 }
 
-/* ---------- サイドバー ---------- */
-
-.sidebar {
-    ...
-}
 
 /* ---------- サイドバーwevebox ---------- */
 .wavebox-logo {
@@ -270,7 +265,7 @@ h1 {
 
 .speaker-ことね .chat-bubble {
     background-color: rgba(250,211,86, 0.4);
-
+}
 /* ---------- ノベルページ：スマホ対応 ---------- */
 
 @media (max-width: 700px) {
@@ -358,12 +353,13 @@ h1 {
     }
 }
 
-.link-banner {
+img.link-banner {
     width: 200px;
+    max-width: 200px;
     height: auto;
     display: block;
 }
 
-.link-banner:hover {
+img.link-banner:hover {
     opacity: 0.7;
 }
