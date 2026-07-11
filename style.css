@@ -179,7 +179,7 @@ h1 {
 
 .chat-description {
     margin-bottom: 35px;
-    color: #68745f;
+    color: #5aba11;
 }
 
 .conversation {
@@ -230,8 +230,7 @@ h1 {
     max-width: 75%;
     padding: 12px 16px;
     line-height: 1.8;
-    background-color: #fffdf5;
-    border: 2px solid #8a9a75;
+    background-color: #898884;
     border-radius: 14px;
 }
 
@@ -248,6 +247,15 @@ h1 {
     .chat-bubble {
         max-width: 85%;
     }
+}
+/* ---------- キャラごとの吹き出し色 ---------- */
+
+.speaker-莉波 .chat-bubble {
+    background-color: rgba(249, 196, 214, 0.6);
+}
+
+.speaker-麻央 .chat-bubble {
+    background-color: rgba(164, 83, 166, 0.4);
 }
 /* ---------- ノベルページ：スマホ対応 ---------- */
 

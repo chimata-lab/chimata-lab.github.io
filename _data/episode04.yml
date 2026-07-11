@@ -1,0 +1,547 @@
+- speaker: 黒丸
+  side: right
+  icon: /images/characters/kuromaru.png
+  text: |-
+    姫崎さんにレッスンのスケジュールを
+    渡し忘れてたな——
+
+- speaker: 黒丸
+  side: right
+  icon: /images/characters/kuromaru.png
+  text: |-
+    まだ教室にいるはず……
+    ……ん？
+
+- speaker: 莉波
+  side: left
+  icon: /images/characters/rinami.png
+  text: |-
+    ……うん、それで、
+    今朝は寝坊して……
+
+- speaker: 麻央
+  side: left
+  icon: /images/characters/mao.png
+  text: |-
+    ふうん、しっかりもののキミにしては、
+    珍しい失敗だね。
+
+- speaker: 黒丸
+  side: right
+  icon: /images/characters/kuromaru.png
+  text: |-
+    （あれは、たしか同級生の……）
+
+- speaker: 莉波
+  side: left
+  icon: /images/characters/rinami.png
+  text: |-
+    麻央のほうがよっぽど
+    しっかりものだと思うけどな。
+
+- speaker: 莉波
+  side: left
+  icon: /images/characters/rinami.png
+  text: |-
+    麻央って、寮の後輩の頼みごと、
+    ぜんぶ引き受けてるだろ。
+
+- speaker: 麻央
+  side: left
+  icon: /images/characters/mao.png
+  text: |-
+    ボクは莉波みたいに、
+    生徒会に入ってるわけじゃないからね。
+
+- speaker: 莉波
+  side: left
+  icon: /images/characters/rinami.png
+  text: |-
+    俺はただの書記だから。そんなに
+    忙しくはないんだよ。
+
+- speaker: 麻央
+  side: left
+  icon: /images/characters/mao.png
+  text: |-
+    十分忙しいと思うけど。
+    ところで、莉波——
+
+- speaker: 麻央
+  side: left
+  icon: /images/characters/mao.png
+  text: |-
+    最近、少し印象が変わったかい？
+
+- speaker: 莉波
+  side: left
+  icon: /images/characters/rinami.png
+  text: |-
+    ……え？
+    そ、そう、か……？
+
+- speaker: 麻央
+  side: left
+  icon: /images/characters/mao.png
+  text: |-
+    なんだか、大人びた感じがするよ。
+
+- speaker: 莉波
+  side: left
+  icon: /images/characters/rinami.png
+  text: |-
+    え？
+    ほ、本当か？
+
+- speaker: 麻央
+  side: left
+  icon: /images/characters/mao.png
+  text: |-
+    ま、なんとなく、だけど。
+    雰囲気がちょっと、ね……
+
+- speaker: 莉波
+  side: left
+  icon: /images/characters/rinami.png
+  text: |-
+    そうか……！
+
+- speaker: 麻央
+  side: left
+  icon: /images/characters/mao.png
+  text: |-
+    そういえば、例のプロデューサーとは
+    どうなんだい？
+
+- speaker: 莉波
+  side: left
+  icon: /images/characters/rinami.png
+  text: |-
+    ごほごほっ……
+
+- speaker: 麻央
+  side: left
+  icon: /images/characters/mao.png
+  text: |-
+    莉波？
+
+- speaker: 莉波
+  side: left
+  icon: /images/characters/rinami.png
+  text: |-
+    ど、どど、どうって！？
+
+- speaker: 麻央
+  side: left
+  icon: /images/characters/mao.png
+  text: |-
+    ……？
+    えっと……
+    うまくやってるのかなって。
+
+- speaker: 莉波
+  side: left
+  icon: /images/characters/rinami.png
+  text: |-
+    え？
+    あ、ああ……！
+
+- speaker: 麻央
+  side: left
+  icon: /images/characters/mao.png
+  text: |-
+    もしいい加減な
+    プロデューサーだったら——
+
+- speaker: 麻央
+  side: left
+  icon: /images/characters/mao.png
+  text: |-
+    ボクが許さないから。
+
+- speaker: 麻央
+  side: left
+  icon: /images/characters/mao.png
+  text: |-
+    まあ、莉波のことを
+    見つけ出してくれたんだし、
+
+- speaker: 麻央
+  side: left
+  icon: /images/characters/mao.png
+  text: |-
+    少なくとも、素質を見抜く目はある、
+    プロデューサーなんだろうけど。
+
+- speaker: 莉波
+  side: left
+  icon: /images/characters/rinami.png
+  text: |-
+    ……あ、ありがとな。
+
+- speaker: 麻央
+  side: left
+  icon: /images/characters/mao.png
+  text: |-
+    それで、どうなんだい？
+
+- speaker: 莉波
+  side: left
+  icon: /images/characters/rinami.png
+  text: |-
+    ああ。俺にはもったいないくらいの、
+    素敵なプロデューサーだよ。
+
+- speaker: 麻央
+  side: left
+  icon: /images/characters/mao.png
+  text: |-
+    へえ……
+    どんなレッスンをしているんだい？
+
+- speaker: 莉波
+  side: left
+  icon: /images/characters/rinami.png
+  text: |-
+    えーっと……
+    まず、俺がお兄ちゃんになるんだ。
+
+- speaker: 麻央
+  side: left
+  icon: /images/characters/mao.png
+  text: |-
+    ……んん？
+
+- speaker: 麻央
+  side: left
+  icon: /images/characters/mao.png
+  text: |-
+    莉波が……お兄ちゃん？
+    ど、どういうことだい……？
+
+- speaker: 莉波
+  side: left
+  icon: /images/characters/rinami.png
+  text: |-
+    俺も、実はまだあまり、
+    よくわかってないんだけど……
+
+- speaker: 莉波
+  side: left
+  icon: /images/characters/rinami.png
+  text: |-
+    俺がお兄ちゃんになって——
+
+- speaker: 莉波
+  side: left
+  icon: /images/characters/rinami.png
+  text: |-
+    プロデューサーのことを、
+    妹みたいに扱って欲しいって。
+
+- speaker: 麻央
+  side: left
+  icon: /images/characters/mao.png
+  text: |-
+    ……ちょっと理解が追いつかないな。
+
+- speaker: 麻央
+  side: left
+  icon: /images/characters/mao.png
+  text: |-
+    それは、アイドルになるための
+    レッスンなのか……？
+
+- speaker: 莉波
+  side: left
+  icon: /images/characters/rinami.png
+  text: |-
+    ああ、たぶん……
+
+- speaker: 莉波
+  side: left
+  icon: /images/characters/rinami.png
+  text: |-
+    素の俺を引き出すために、
+    必要なレッスンらしい。
+
+- speaker: 麻央
+  side: left
+  icon: /images/characters/mao.png
+  text: |-
+    そ、そうか……
+
+- speaker: 麻央
+  side: left
+  icon: /images/characters/mao.png
+  text: |-
+    そういえば、莉波、前のユニットでは
+    弟ポジションだったよね？
+
+- speaker: 莉波
+  side: left
+  icon: /images/characters/rinami.png
+  text: |-
+    ……ああ。あのときは——
+
+- speaker: 莉波
+  side: left
+  icon: /images/characters/rinami.png
+  text: |-
+    無理に弟っぽい感じを演じてたから、
+    あんまりうまくいかなかった。
+
+- speaker: 麻央
+  side: left
+  icon: /images/characters/mao.png
+  text: |-
+    まあ、たしかに——
+    莉波はお兄ちゃんタイプだよね。
+
+- speaker: 莉波
+  side: left
+  icon: /images/characters/rinami.png
+  text: |-
+    そうか？自分じゃあまりわからないな……
+
+- speaker: 麻央
+  side: left
+  icon: /images/characters/mao.png
+  text: |-
+    お兄ちゃんになるレッスンって、
+    どんなことをするんだい？
+
+- speaker: 莉波
+  side: left
+  icon: /images/characters/rinami.png
+  text: |-
+    うう、ん……なんだろうな。
+    そんなに特別なことじゃないんだけど。
+
+- speaker: 莉波
+  side: left
+  icon: /images/characters/rinami.png
+  text: |-
+    プロデューサーが頑張ってたら、
+    よしよしって褒めてあげたりとか、
+
+- speaker: 莉波
+  side: left
+  icon: /images/characters/rinami.png
+  text: |-
+    忙しそうなときは、ご飯を作って
+    持って行ってあげたり、
+
+- speaker: 莉波
+  side: left
+  icon: /images/characters/rinami.png
+  text: |-
+    重いものは全部持ってあげたり、
+    歯磨きをしてあげたり……
+
+- speaker: 麻央
+  side: left
+  icon: /images/characters/mao.png
+  text: |-
+    ……！？
+
+- speaker: 莉波
+  side: left
+  icon: /images/characters/rinami.png
+  text: |-
+    ……麻央、どうしたの？
+
+- speaker: 麻央
+  side: left
+  icon: /images/characters/mao.png
+  text: |-
+    ちょっと、キミのプロデューサーと
+    話をつけてくるよ……
+
+- speaker: 莉波
+  side: left
+  icon: /images/characters/rinami.png
+  text: |-
+    ま、まってくれ、違うんだ！
+    俺が勝手にしてることだから！
+
+- speaker: 莉波
+  side: left
+  icon: /images/characters/rinami.png
+  text: |-
+    プロデューサーのこと、本当の妹
+    みたいに思って接することで、
+
+- speaker: 莉波
+  side: left
+  icon: /images/characters/rinami.png
+  text: |-
+    無意識のうちに、俺の素のところが
+    出てるんだと思う。
+
+- speaker: 麻央
+  side: left
+  icon: /images/characters/mao.png
+  text: |-
+    ……ふうん。
+    それなら、まあ、いいけど……
+
+- speaker: 麻央
+  side: left
+  icon: /images/characters/mao.png
+  text: |-
+    莉波が選んだんだから、
+    きっと、信頼できる人なんだろうね。
+
+- speaker: 莉波
+  side: left
+  icon: /images/characters/rinami.png
+  text: |-
+    ！ああ！！
+
+- speaker: 麻央
+  side: left
+  icon: /images/characters/mao.png
+  text: |-
+    まあ、なにかあったら相談してよ。
+    ボクも助太刀するから。
+
+- speaker: 莉波
+  side: left
+  icon: /images/characters/rinami.png
+  text: |-
+    ありがとな。頼りにしてるよ。
+
+- speaker: 麻央
+  side: left
+  icon: /images/characters/mao.png
+  text: |-
+    おっと、そろそろ行かないと。後輩に
+    ダンスパートナーを頼まれていてね。
+
+- speaker: 麻央
+  side: left
+  icon: /images/characters/mao.png
+  text: |-
+    失礼するよ。プロデューサーの話は、
+    また今度ゆっくりと——
+
+- speaker: 黒丸
+  side: right
+  icon: /images/characters/kuromaru.png
+  text: |-
+    ……っ！？
+
+- speaker: 麻央
+  side: left
+  icon: /images/characters/mao.png
+  text: |-
+    あ、すみません！
+
+- speaker: 莉波
+  side: left
+  icon: /images/characters/rinami.png
+  text: |-
+    ……あれ？
+    黒丸、
+    なにしてるんだ？
+
+- speaker: 黒丸
+  side: right
+  icon: /images/characters/kuromaru.png
+  text: |-
+    え、ええと、姫崎さんのレッスンの
+    スケジュールを渡し忘れたので。
+
+- speaker: 莉波
+  side: left
+  icon: /images/characters/rinami.png
+  text: |-
+    あ、そうか！
+    わざわざありがとな。
+
+- speaker: 莉波
+  side: left
+  icon: /images/characters/rinami.png
+  text: |-
+    ……ん、どうした？
+    黒丸？
+
+- speaker: 黒丸
+  side: right
+  icon: /images/characters/kuromaru.png
+  text: |-
+    いえ、その、すみません……
+    盗み聞くつもりはなかったのですが。
+
+- speaker: 黒丸
+  side: right
+  icon: /images/characters/kuromaru.png
+  text: |-
+    出て行きそびれてしまって……
+    おふたりの話を聞いてしまいました。
+
+- speaker: 莉波
+  side: left
+  icon: /images/characters/rinami.png
+  text: |-
+    ……！？
+
+- speaker: 莉波
+  side: left
+  icon: /images/characters/rinami.png
+  text: |-
+    えっと、最初のほうから……？
+
+- speaker: 黒丸
+  side: right
+  icon: /images/characters/kuromaru.png
+  text: |-
+    ……はい。けっこう最初のほうから。
+
+
+- speaker: 莉波
+  side: left
+  icon: /images/characters/rinami.png
+  text: |-
+   は、はは……照れるな……
+
+- speaker: 黒丸
+  side: right
+  icon: /images/characters/kuromaru.png
+  text: |-
+    その、こんなことを言うのは、
+    少し気恥ずかしいんですが——
+
+- speaker: 莉波
+  side: left
+  icon: /images/characters/rinami.png
+  text: |-
+    （気恥ずかしいのはこっちだ！）
+
+- speaker: 黒丸
+  side: right
+  icon: /images/characters/kuromaru.png
+  text: |-
+    プロデューサーとして信頼してくれて、
+    ありがとうございます。
+
+- speaker: 黒丸
+  side: right
+  icon: /images/characters/kuromaru.png
+  text: |-
+    あなたの信頼に応えられるよう、
+    全力を尽くします。
+
+- speaker: 莉波
+  side: left
+  icon: /images/characters/rinami.png
+  text: |-
+    ……黒丸。
+
+- speaker: 莉波
+  side: left
+  icon: /images/characters/rinami.png
+  text: |-
+    ……うん、ありがとう。
+    よろしくお願いします。
