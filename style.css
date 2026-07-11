@@ -291,3 +291,47 @@ h1 {
         margin-right: 8px;
     }
 }
+/* ---------- 話数ナビゲーション ---------- */
+
+.episode-nav {
+    display: grid;
+    grid-template-columns: 1fr auto 1fr;
+    align-items: center;
+    gap: 12px;
+    margin-top: 40px;
+    padding-top: 16px;
+    border-top: 1px dotted #8a9a75;
+}
+
+.episode-nav-left {
+    text-align: left;
+}
+
+.episode-nav-center {
+    text-align: center;
+}
+
+.episode-nav-right {
+    text-align: right;
+}
+
+.chapter-series {
+    margin-bottom: 4px;
+    color: #68745f;
+    font-size: 14px;
+}
+
+.chapter-list li {
+    margin-bottom: 12px;
+}
+
+@media (max-width: 700px) {
+    .episode-nav {
+        grid-template-columns: 1fr 1fr;
+    }
+
+    .episode-nav-center {
+        grid-column: 1 / -1;
+        grid-row: 2;
+    }
+}

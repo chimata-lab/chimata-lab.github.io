@@ -1,0 +1,28 @@
+---
+layout: default
+title: 第3話
+---
+
+<article class="chat-work">
+
+    <h1>第3話</h1>
+
+    <p class="chat-description">
+ 
+    </p>
+
+   <div class="conversation">
+
+    {% for message in site.data.episode03 %}
+
+        {% include chat-message.html message=message %}
+
+    {% endfor %}
+
+</div>
+
+    <p class="back-link">
+        <a href="/novel/rinami/index.html">← 作品一覧へ戻る</a>
+    </p>
+
+</article>

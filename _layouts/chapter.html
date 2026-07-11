@@ -1,0 +1,70 @@
+---
+layout: default
+---
+
+{% assign series_chapters = site.chapters
+    | where: "series", page.series
+    | sort: "chapter" %}
+
+{% assign current_index = nil %}
+
+{% for chapter_page in series_chapters %}
+    {% if chapter_page.url == page.url %}
+        {% assign current_index = forloop.index0 %}
+    {% endif %}
+{% endfor %}
+
+<article class="chat-work">
+
+    <p class="chapter-series">
+        {{ page.series_title }}
+    </p>
+
+    <h1>
+        第{{ page.chapter }}話　{{ page.title }}
+    </h1>
+
+    <div class="conversation">
+
+        {% assign messages = site.data[page.data_file] %}
+
+        {% for message in messages %}
+            {% include chat-message.html message=message %}
+        {% endfor %}
+
+    </div>
+
+    {% assign previous_index = current_index | minus: 1 %}
+    {% assign next_index = current_index | plus: 1 %}
+
+    <nav class="episode-nav">
+
+        <div class="episode-nav-left">
+            {% if current_index > 0 %}
+                {% assign previous_chapter = series_chapters[previous_index] %}
+
+                <a href="{{ previous_chapter.url }}">
+                    ← 第{{ previous_chapter.chapter }}話
+                </a>
+            {% endif %}
+        </div>
+
+        <div class="episode-nav-center">
+            <a href="/novel/rinami/">
+                作品一覧
+            </a>
+        </div>
+
+        <div class="episode-nav-right">
+            {% if next_index < series_chapters.size %}
+                {% assign next_chapter = series_chapters[next_index] %}
+
+                <a href="{{ next_chapter.url }}">
+                    第{{ next_chapter.chapter }}話 →
+                </a>
+            {% endif %}
+        </div>
+
+    </nav>
+
+</article>

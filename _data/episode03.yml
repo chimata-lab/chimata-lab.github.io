@@ -1,0 +1,410 @@
+- speaker: 莉波
+  side: left
+  icon: /images/characters/rinami.png
+  text: |-
+    黒丸さんのお兄ちゃんになるって……
+    どういうことだ？
+
+- speaker: 黒丸
+  side: right
+  icon: /images/characters/kuromaru.png
+  text: |-
+    昔のように——
+    妹相手だと思って接して欲しいんです。
+
+- speaker: 莉波
+  side: left
+  icon: /images/characters/rinami.png
+  text: |-
+    年上なのに……妹……？
+
+- speaker: 莉波
+  side: left
+  icon: /images/characters/rinami.png
+  text: |-
+    ええっと、すまん。
+    よく呑み込めなくて……
+
+- speaker: 莉波
+  side: left
+  icon: /images/characters/rinami.png
+  text: |-
+    どういうことだ？
+
+- speaker: 黒丸
+  side: right
+  icon: /images/characters/kuromaru.png
+  text: |-
+    これが、あなたの魅力を引き出す、
+    一番の方法だからです。
+
+- speaker: 莉波
+  side: left
+  icon: /images/characters/rinami.png
+  text: |-
+    そ、そうなのか……？
+
+- speaker: 黒丸
+  side: right
+  icon: /images/characters/kuromaru.png
+  text: |-
+    そうです。
+
+- speaker: 莉波
+  side: left
+  icon: /images/characters/rinami.png
+  text: |-
+    そ、そんなこと、
+    急に言われても……
+
+- speaker: 莉波
+  side: left
+  icon: /images/characters/rinami.png
+  text: |-
+    黒丸さんは目上の人なんだし……
+
+- speaker: 黒丸
+  side: right
+  icon: /images/characters/kuromaru.png
+  text: |-
+    それは気にしないでください。
+
+- speaker: 莉波
+  side: left
+  icon: /images/characters/rinami.png
+  text: |-
+    ……気にするよ。
+    それに——
+
+- speaker: 莉波
+  side: left
+  icon: /images/characters/rinami.png
+  text: |-
+    俺、見た目が弟っぽくないから——
+
+- speaker: 莉波
+  side: left
+  icon: /images/characters/rinami.png
+  text: |-
+    他のメンバーの子を真似して、
+    弟っぽいしゃべり方にしてみたり、
+
+- speaker: 莉波
+  side: left
+  icon: /images/characters/rinami.png
+  text: |-
+    服装も、すごいショートパンツ履いてみたりして、弟っぽくしてたのに……
+
+- speaker: 莉波
+  side: left
+  icon: /images/characters/rinami.png
+  text: |-
+    お兄ちゃんになって、なんて……
+
+- speaker: 黒丸
+  side: right
+  icon: /images/characters/kuromaru.png
+  text: |-
+    お言葉ですが——
+    その努力は、ぜんぶ大間違いです。
+
+- speaker: 莉波
+  side: left
+  icon: /images/characters/rinami.png
+  text: |-
+    ええっ！？
+
+- speaker: 莉波
+  side: left
+  icon: /images/characters/rinami.png
+  text: |-
+    ……あ、ショートパンツじゃなくて、
+    サスペンダーのほうがよかったか？
+
+- speaker: 黒丸
+  side: right
+  icon: /images/characters/kuromaru.png
+  text: |-
+    違います。
+
+- speaker: 莉波
+  side: left
+  icon: /images/characters/rinami.png
+  text: |-
+    違うの？
+
+- speaker: 黒丸
+  side: right
+  icon: /images/characters/kuromaru.png
+  text: |-
+    いわゆる、弟キャラですね。
+    アイドルとしては鉄板の個性ですが、
+
+- speaker: 黒丸
+  side: right
+  icon: /images/characters/kuromaru.png
+  text: |-
+    ただ演じただけの個性では、
+    あなたの持つ本来の魅力にかなわない。
+
+- speaker: 莉波
+  side: left
+  icon: /images/characters/rinami.png
+  text: |-
+    ……！
+
+- speaker: 黒丸
+  side: right
+  icon: /images/characters/kuromaru.png
+  text: |-
+    たしかに、ファンの方々の多くは、
+    姫崎さんよりも年上の人たちです。
+
+- speaker: 黒丸
+  side: right
+  icon: /images/characters/kuromaru.png
+  text: |-
+    目上の方々に敬意を抱くのは、
+    とてもいいことだと思います。
+
+- speaker: 莉波
+  side: left
+  icon: /images/characters/rinami.png
+  text: |-
+    ……は、はい。
+
+- speaker: 黒丸
+  side: right
+  icon: /images/characters/kuromaru.png
+  text: |-
+    ですが、そんな方々にも、
+    あなたの本当の魅力を伝えたい。
+
+- speaker: 黒丸
+  side: right
+  icon: /images/characters/kuromaru.png
+  text: |-
+    そのために、まず——
+    お兄ちゃんになりきってください。
+
+- speaker: 莉波
+  side: left
+  icon: /images/characters/rinami.png
+  text: |-
+    お兄ちゃんキャラになる、ってことか？
+
+- speaker: 黒丸
+  side: right
+  icon: /images/characters/kuromaru.png
+  text: |-
+    大雑把に言えば、そうですね。
+    ただし——
+
+- speaker: 黒丸
+  side: right
+  icon: /images/characters/kuromaru.png
+  text: |-
+    あくまで、自然な振る舞いで、
+    あなたの内面の魅力を表現する。
+
+- speaker: 黒丸
+  side: right
+  icon: /images/characters/kuromaru.png
+  text: |-
+    そのための効果的な訓練法です。
+
+- speaker: 莉波
+  side: left
+  icon: /images/characters/rinami.png
+  text: |-
+    自然に振る舞う……
+    黒丸のお兄ちゃんとして。
+
+- speaker: 黒丸
+  side: right
+  icon: /images/characters/kuromaru.png
+  text: |-
+    まずは、私にだけでいいです。
+
+- speaker: 莉波
+  side: left
+  icon: /images/characters/rinami.png
+  text: |-
+    黒丸にだけ？
+
+- speaker: 黒丸
+  side: right
+  icon: /images/characters/kuromaru.png
+  text: |-
+    はい。昔を思い出して——
+    お兄ちゃんとして振る舞ってみて下さい。
+
+- speaker: 莉波
+  side: left
+  icon: /images/characters/rinami.png
+  text: |-
+    昔を思い出して……
+
+- speaker: 莉波
+  side: left
+  icon: /images/characters/rinami.png
+  text: |-
+    わかった……
+    やってみるよ。
+
+- speaker: 莉波
+  side: left
+  icon: /images/characters/rinami.png
+  text: |-
+    ……こほん。
+
+- speaker: 莉波
+  side: left
+  icon: /images/characters/rinami.png
+  text: |-
+    黒丸！俺がお前のお兄さんだぞ！なんでも頼れよ！
+
+- speaker: 黒丸
+  side: right
+  icon: /images/characters/kuromaru.png
+  text: |-
+    ……姫崎さん。
+
+- speaker: 莉波
+  side: left
+  icon: /images/characters/rinami.png
+  text: |-
+    ……はい。
+
+- speaker: 黒丸
+  side: right
+  icon: /images/characters/kuromaru.png
+  text: |-
+    それは違います。
+
+- speaker: 莉波
+  side: left
+  icon: /images/characters/rinami.png
+  text: |-
+    ……ち、違うか！？
+
+- speaker: 黒丸
+  side: right
+  icon: /images/characters/kuromaru.png
+  text: |-
+    もっと肩の力を抜いて、
+    自然な感じでお願いします。
+
+- speaker: 莉波
+  side: left
+  icon: /images/characters/rinami.png
+  text: |-
+    ……お、おう。
+
+- speaker: 莉波
+  side: left
+  icon: /images/characters/rinami.png
+  text: |-
+    ——黒丸。
+
+- speaker: 黒丸
+  side: right
+  icon: /images/characters/kuromaru.png
+  text: |-
+    今のはいい感じです。
+
+- speaker: 莉波
+  side: left
+  icon: /images/characters/rinami.png
+  text: |-
+    黒丸。
+    立派になったな。見違えたよ。
+
+- speaker: 黒丸
+  side: right
+  icon: /images/characters/kuromaru.png
+  text: |-
+    その調子です。
+
+- speaker: 莉波
+  side: left
+  icon: /images/characters/rinami.png
+  text: |-
+    ……黒丸？
+
+- speaker: 莉波
+  side: left
+  icon: /images/characters/rinami.png
+  text: |-
+    じーっ……
+
+- speaker: 黒丸
+  side: right
+  icon: /images/characters/kuromaru.png
+  text: |-
+    どうしました？
+
+- speaker: 莉波
+  side: left
+  icon: /images/characters/rinami.png
+  text: |-
+    ひょっとして……
+
+- speaker: 莉波
+  side: left
+  icon: /images/characters/rinami.png
+  text: |-
+    お前がお兄さんキャラが
+    好きなだけじゃないのか？
+
+- speaker: 黒丸
+  side: right
+  icon: /images/characters/kuromaru.png
+  text: |-
+    違います。
+
+- speaker: 莉波
+  side: left
+  icon: /images/characters/rinami.png
+  text: |-
+    ……本当か？
+
+- speaker: 黒丸
+  side: right
+  icon: /images/characters/kuromaru.png
+  text: |-
+    この訓練が、姫崎さんの魅力を
+    一番引き出せると信じて——
+
+- speaker: 莉波
+  side: left
+  icon: /images/characters/rinami.png
+  text: |-
+    ……ははっ。ごめんな。
+    ちょっと、からかってみただけだ。
+
+- speaker: 莉波
+  side: left
+  icon: /images/characters/rinami.png
+  text: |-
+    ちゃんとわかってるよ。
+
+- speaker: 莉波
+  side: left
+  icon: /images/characters/rinami.png
+  text: |-
+    黒丸が、俺のために一生懸命、
+    考えてくれたってこと。
+
+- speaker: 莉波
+  side: left
+  icon: /images/characters/rinami.png
+  text: |-
+    ありがとう、黒丸。
+    お前を信じてるから——
+
+- speaker: 莉波
+  side: left
+  icon: /images/characters/rinami.png
+  text: |-
+    お兄ちゃんになれるように、頑張るよ。
