@@ -1,0 +1,469 @@
+- speaker: 莉波
+  side: left
+  icon: /images/characters/rinami.png
+  text: |-
+    みんなーーー！
+    大きな声でーーーっ！
+
+- speaker: 莉波
+  side: left
+  icon: /images/characters/rinami.png
+  text: |-
+    マジカル・シャイニング——
+    フラーッシュ！
+
+- speaker: 莉波
+  side: left
+  icon: /images/characters/rinami.png
+  text: |-
+    ありがとな！みんなの声が、
+    ちゃんと届いたよ！
+
+- speaker: 黒丸
+  side: right
+  icon: /images/characters/kuromaru.png
+  text: |-
+    お疲れ様です。
+    水分補給を。
+
+- speaker: 莉波
+  side: left
+  icon: /images/characters/rinami.png
+  text: |-
+    ありがとう！
+    すっっっごく楽しかった！！
+
+- speaker: 黒丸
+  side: right
+  icon: /images/characters/kuromaru.png
+  text: |-
+    集まってくれたお客さんも、
+    とても盛り上がっていました。
+
+- speaker: 莉波
+  side: left
+  icon: /images/characters/rinami.png
+  text: |-
+    本当か……？
+    よかった……
+
+- speaker: 莉波
+  side: left
+  icon: /images/characters/rinami.png
+  text: |-
+    ヒーローショーの司会って聞いて、
+    最初は自信なかったけど……
+
+- speaker: 莉波
+  side: left
+  icon: /images/characters/rinami.png
+  text: |-
+    ちびっ子のみんなが、
+    小さい頃のお前みたいに見えてきて、
+
+- speaker: 莉波
+  side: left
+  icon: /images/characters/rinami.png
+  text: |-
+    自然にお兄さんらしく、
+    振る舞えたんだと思う。
+
+- speaker: 黒丸
+  side: right
+  icon: /images/characters/kuromaru.png
+  text: |-
+    普通のステージとは、
+    また違うとは思いますが——
+
+- speaker: 黒丸
+  side: right
+  icon: /images/characters/kuromaru.png
+  text: |-
+    みんなのお兄さんになった、
+    この感覚を覚えておいてください。
+
+- speaker: 莉波
+  side: left
+  icon: /images/characters/rinami.png
+  text: |-
+    ……うん、わかった。
+    しっかり、覚えておくよ。
+
+- speaker: 子供A
+  side: left
+  text: |-
+    あー、さっきのおにーさんだー！
+
+- speaker: 子供B
+  side: left
+  text: |-
+    あくしゅしてー！
+
+- speaker: 莉波
+  side: left
+  icon: /images/characters/rinami.png
+  text: |-
+    お、おう……！
+    順番な！
+
+- speaker: 子供A
+  side: left
+  text: |-
+    ありがとーおにーさん！
+
+- speaker: 子供B
+  side: left
+  text: |-
+    ありがとー。
+
+- speaker: 莉波
+  side: left
+  icon: /images/characters/rinami.png
+  text: |-
+    また観にきてくれ！
+    お兄さんとの約束だ！
+
+- speaker: 莉波
+  side: left
+  icon: /images/characters/rinami.png
+  text: |-
+    ……って、あれ？
+
+- speaker: 黒丸
+  side: right
+  icon: /images/characters/kuromaru.png
+  text: |-
+    どうかしましたか？
+
+- speaker: 莉波
+  side: left
+  icon: /images/characters/rinami.png
+  text: |-
+    あそこにいる女の子って、
+    さっき、ステージを観てくれてた……
+
+- speaker: 黒丸
+  side: right
+  icon: /images/characters/kuromaru.png
+  text: |-
+    よく覚えてますね……
+
+- speaker: 莉波
+  side: left
+  icon: /images/characters/rinami.png
+  text: |-
+    前のほうで一生懸命、
+    声を出してくれてたから。
+
+- speaker: 莉波
+  side: left
+  icon: /images/characters/rinami.png
+  text: |-
+    ひとりで、どうしたんだろう。
+
+- speaker: 莉波
+  side: left
+  icon: /images/characters/rinami.png
+  text: |-
+    ちょっと、声をかけてくる。
+
+- speaker: 莉波
+  side: left
+  icon: /images/characters/rinami.png
+  text: |-
+    きみ、どうしたの？
+
+- speaker: 子供
+  side: left
+  text: |-
+    あ、さっきのおにいさん……
+
+- speaker: 莉波
+  side: left
+  icon: /images/characters/rinami.png
+  text: |-
+    ひょっとして、迷子になったのか？
+
+- speaker: 子供
+  side: left
+  text: |-
+    ……うん。
+    お母さん、いなくなっちゃって……
+
+- speaker: 莉波
+  side: left
+  icon: /images/characters/rinami.png
+  text: |-
+    ……まだ、近くにいるかも。
+    一緒に探そうか。
+
+- speaker: 黒丸
+  side: right
+  icon: /images/characters/kuromaru.png
+  text: |-
+    迷子センターのほうには、
+    こちらで連絡しておきます。
+
+- speaker: 莉波
+  side: left
+  icon: /images/characters/rinami.png
+  text: |-
+    ありがとな。
+
+- speaker: 莉波
+  side: left
+  icon: /images/characters/rinami.png
+  text: |-
+    どこで迷子になったか、
+    おぼえてるか？
+
+- speaker: 子供
+  side: left
+  text: |-
+    あっちのほう……
+
+- speaker: 莉波
+  side: left
+  icon: /images/characters/rinami.png
+  text: |-
+    フードエリアか。
+    行ってみよう。
+
+- speaker: 莉波
+  side: left
+  icon: /images/characters/rinami.png
+  text: |-
+    またはぐれないように、
+    ほら、手を繋ごう。
+
+- speaker: 莉波
+  side: left
+  icon: /images/characters/rinami.png
+  text: |-
+    ……うーん。人が多いな。
+    どこだろう……
+
+- speaker: 黒丸
+  side: right
+  icon: /images/characters/kuromaru.png
+  text: |-
+    この人混みの中から探すのは、
+    なかなか大変そうですね。
+
+- speaker: 莉波
+  side: left
+  icon: /images/characters/rinami.png
+  text: |-
+    あ、きみ、お腹空いてないか？
+
+- speaker: 子供
+  side: left
+  text: |-
+    うん……
+    だいじょうぶ。
+
+- speaker: 莉波
+  side: left
+  icon: /images/characters/rinami.png
+  text: |-
+    ……そっか。
+    お兄さんはお腹すいたなぁ
+
+- speaker: 莉波
+  side: left
+  icon: /images/characters/rinami.png
+  text: |-
+    ちょっと、買ってくる。
+    黒丸とここで待ってててな。
+
+- speaker: 莉波
+  side: left
+  icon: /images/characters/rinami.png
+  text: |-
+    はい。
+    アイスクリーム、きみのぶんも。
+
+- speaker: 子供
+  side: left
+  text: |-
+    あ、あの、おかね……
+    お母さんが見つかったら……
+
+- speaker: 莉波
+  side: left
+  icon: /images/characters/rinami.png
+  text: |-
+    いいよ。
+    俺が食べたかっただけだから。
+
+- speaker: 子供
+  side: left
+  text: |-
+    ありがとう、おにいさん……
+
+- speaker: 莉波
+  side: left
+  icon: /images/characters/rinami.png
+  text: |-
+    ……ここには、いないみたいだな。
+
+- speaker: 黒丸
+  side: right
+  icon: /images/characters/kuromaru.png
+  text: |-
+    ……そうですね。このまま、
+    迷子センターに向かいましょう。
+
+- speaker: 莉波
+  side: left
+  icon: /images/characters/rinami.png
+  text: |-
+    うん、そうしようか。
+
+- speaker: 莉波
+  side: left
+  icon: /images/characters/rinami.png
+  text: |-
+    ……大丈夫だ。
+    お母さん、きっと見つかるからな。
+
+- speaker: 子供
+  side: left
+  text: |-
+    ……うん。
+
+- speaker: 莉波
+  side: left
+  icon: /images/characters/rinami.png
+  text: |-
+    ヒーローの歌、一緒に歌うか！
+
+- speaker: 莉波
+  side: left
+  icon: /images/characters/rinami.png
+  text: |-
+    ふんふふふーん♪
+    ふふふーん♪
+
+- speaker: 子供
+  side: left
+  text: |-
+    ……！
+    う、うん！
+
+- speaker: 黒丸
+  side: right
+  icon: /images/characters/kuromaru.png
+  text: |-
+    特等席ですね。
+
+- speaker: 莉波
+  side: left
+  icon: /images/characters/rinami.png
+  text: |-
+    大きくなったら、
+    今度は俺のステージを観に来てな。
+
+- speaker: 場面
+  text: |-
+    ——迷子センター——
+
+- speaker: 子供
+  side: left
+  text: |-
+    お母さん！
+
+- speaker: 莉波
+  side: left
+  icon: /images/characters/rinami.png
+  text: |-
+    よかったなぁ……！
+
+- speaker: 子供
+  side: left
+  text: |-
+    ありがとう、おにいさん！
+
+- speaker: 莉波
+  side: left
+  icon: /images/characters/rinami.png
+  text: |-
+    どういたしまして。
+
+- speaker: 莉波
+  side: left
+  icon: /images/characters/rinami.png
+  text: |-
+    こんどは、迷子にならないように、
+    ちゃんとお母さんのそばにいるんだぞ。
+
+- speaker: 子供
+  side: left
+  text: |-
+    うんっ！
+
+- speaker: 莉波
+  side: left
+  icon: /images/characters/rinami.png
+  text: |-
+    お母さん、
+    見つかって、よかったな。
+
+- speaker: 黒丸
+  side: right
+  icon: /images/characters/kuromaru.png
+  text: |-
+    ……姫崎さん。
+
+- speaker: 莉波
+  side: left
+  icon: /images/characters/rinami.png
+  text: |-
+    ……？
+
+- speaker: 黒丸
+  side: right
+  icon: /images/characters/kuromaru.png
+  text: |-
+    あの子の頭を撫でてあげたときの、
+    あなたの笑顔は、
+
+- speaker: 黒丸
+  side: right
+  icon: /images/characters/kuromaru.png
+  text: |-
+    とても自然で——
+    魅力的に見えました。
+
+- speaker: 莉波
+  side: left
+  icon: /images/characters/rinami.png
+  text: |-
+    ……そ、そう、か？
+
+- speaker: 黒丸
+  side: right
+  icon: /images/characters/kuromaru.png
+  text: |-
+    ええ。子供の頃と変わらない、
+    私の憧れたお兄ちゃんそのものでした。
+
+- speaker: 莉波
+  side: left
+  icon: /images/characters/rinami.png
+  text: |-
+    え、えっと……
+    なんか、照れるな。
+
+- speaker: 黒丸
+  side: right
+  icon: /images/characters/kuromaru.png
+  text: |-
+    自信を持ってください。
+
+- speaker: 黒丸
+  side: right
+  icon: /images/characters/kuromaru.png
+  text: |-
+    あなたの本当の力を——
+    きっと、引き出してみせますから。

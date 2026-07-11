@@ -1,19 +1,38 @@
-<div class="chat-message {{ include.message.side }} speaker-{{ include.message.speaker }}">
+{% if include.message.type == "image" %}
 
-    <div class="chat-speaker">
+    <div class="novel-illustration">
         <img
-            src="{{ include.message.icon }}"
-            alt=""
-            class="chat-icon"
+            src="{{ include.message.src }}"
+            alt="{{ include.message.alt | default: '挿絵' }}"
         >
-
-        <span class="chat-name">
-            {{ include.message.speaker }}
-        </span>
     </div>
 
-    <div class="chat-bubble">
-        {{ include.message.text | escape | newline_to_br }}
+{% else %}
+
+    <div class="chat-message {{ include.message.side }} speaker-{{ include.message.speaker }}">
+
+        <div class="chat-speaker">
+
+            {% if include.message.icon %}
+                <img
+                    src="{{ include.message.icon }}"
+                    class="chat-icon"
+                    alt=""
+                >
+            {% endif %}
+
+            {% unless include.message.speaker == "場面" %}
+                <span class="chat-name">
+                    {{ include.message.speaker }}
+                </span>
+            {% endunless %}
+
+        </div>
+
+        <div class="chat-bubble">
+            {{ include.message.text | newline_to_br }}
+        </div>
+
     </div>
 
-</div>
+{% endif %}

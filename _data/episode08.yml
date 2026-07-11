@@ -1,0 +1,578 @@
+- speaker: 莉波
+  side: left
+  icon: /images/characters/rinami.png
+  text: |-
+    みんなー！
+    今日も来てくれてありがとな！
+
+- speaker: 莉波
+  side: left
+  icon: /images/characters/rinami.png
+  text: |-
+    次のライブもよろしくな！
+    お兄さんとの約束だぞ！
+
+- speaker: 観客A
+  side: left
+  text: |-
+    キャーッ！
+
+- speaker: 観客B
+  side: left
+  text: |-
+    莉波くん、応援してるよー！
+
+- speaker: 莉波
+  side: left
+  icon: /images/characters/rinami.png
+  text: |-
+    ありがとうっ！
+    みんなの声援で頑張れるよ！
+
+- speaker: 観客A
+  side: left
+  text: |-
+    あの子、最近きてるよねー。
+    甘えたいお兄ちゃんっていうか……
+
+- speaker: 観客B
+  side: left
+  text: |-
+    うん、わかる。
+    姫崎莉波くん、覚えた！
+
+- speaker: 黒丸
+  side: right
+  icon: /images/characters/kuromaru.png
+  text: |-
+    お疲れ様でした。
+
+- speaker: 莉波
+  side: left
+  icon: /images/characters/rinami.png
+  text: |-
+    ありがとう。
+    お陰様で、少しずつだけど、
+
+- speaker: 莉波
+  side: left
+  icon: /images/characters/rinami.png
+  text: |-
+    ステージを観にきてくれる人が
+    増えてきた気がする。
+
+- speaker: 黒丸
+  side: right
+  icon: /images/characters/kuromaru.png
+  text: |-
+    ええ。そうですね……
+    ですが——
+
+- speaker: 黒丸
+  side: right
+  icon: /images/characters/kuromaru.png
+  text: |-
+    まだ、少しぎこちない……
+    演じてしまっているように見えます……
+
+- speaker: 莉波
+  side: left
+  icon: /images/characters/rinami.png
+  text: |-
+    ああ、そうだよな……
+
+- speaker: 莉波
+  side: left
+  icon: /images/characters/rinami.png
+  text: |-
+    ……難しいなあ。
+    昔は自然にできてたのにな。
+
+- speaker: 莉波
+  side: left
+  icon: /images/characters/rinami.png
+  text: |-
+    黒丸に対しても、
+    昔と同じようにはいかないな。
+
+- speaker: 莉波
+  side: left
+  icon: /images/characters/rinami.png
+  text: |-
+    あの頃のお前は、まだ小さな女の子で、
+    本当の妹みたいに思っていたから……
+
+- speaker: 黒丸
+  side: right
+  icon: /images/characters/kuromaru.png
+  text: |-
+    焦らずにいきましょう。
+    結果はきっと、ついて……きま……
+
+- speaker: 黒丸
+  side: right
+  icon: /images/characters/kuromaru.png
+  text: |-
+    （あ……れ……？）
+
+- speaker: 莉波
+  side: left
+  icon: /images/characters/rinami.png
+  text: |-
+    ……ど、どうした？
+    なんだか、顔色が……
+
+- speaker: 黒丸
+  side: right
+  icon: /images/characters/kuromaru.png
+  text: |-
+    ……いえ、大丈夫……で、す……
+
+- speaker: 莉波
+  side: left
+  icon: /images/characters/rinami.png
+  text: |-
+    大丈夫じゃないだろ！
+    おでこ貸してみろ……
+
+- speaker: 莉波
+  side: left
+  icon: /images/characters/rinami.png
+  text: |-
+    ……っ！
+    すごい熱……！
+
+- speaker: 黒丸
+  side: right
+  icon: /images/characters/kuromaru.png
+  text: |-
+    ……たいした熱じゃ、ありません。
+    このくらい……
+
+- speaker: 莉波
+  side: left
+  icon: /images/characters/rinami.png
+  text: |-
+    だめだ！
+    早く部屋に戻って、休まないと！
+
+- speaker: 莉波
+  side: left
+  icon: /images/characters/rinami.png
+  text: |-
+    ほら、行くぞ！
+
+- speaker: 黒丸
+  side: right
+  icon: /images/characters/kuromaru.png
+  text: |-
+    だめ……です……
+
+- speaker: 黒丸
+  side: right
+  icon: /images/characters/kuromaru.png
+  text: |-
+    アイドルを……
+    自分の部屋に……入れるわけ、には……
+
+- speaker: 莉波
+  side: left
+  icon: /images/characters/rinami.png
+  text: |-
+    そんなこと言ってる場合じゃないだろ。
+    許可はとっておくから。
+
+- speaker: 莉波
+  side: left
+  icon: /images/characters/rinami.png
+  text: |-
+    ほら、早く……
+
+- speaker: 黒丸
+  side: right
+  icon: /images/characters/kuromaru.png
+  text: |-
+    （うぅ……ん……意識が……）
+
+- speaker: 黒丸
+  side: right
+  icon: /images/characters/kuromaru.png
+  text: |-
+    （……このところ、ライブの準備で
+    あまり寝てなかったから……）
+
+- speaker: 黒丸
+  side: right
+  icon: /images/characters/kuromaru.png
+  text: |-
+    （こんな……大事なときに……
+    プロデューサー失格……だな）
+
+- speaker: 莉波
+  side: left
+  icon: /images/characters/rinami.png
+  text: |-
+    ……る、
+    黒丸。
+
+- speaker: 莉波
+  side: left
+  icon: /images/characters/rinami.png
+  text: |-
+    ……無理のしすぎだな。
+    休むのも仕事のうちだぞ。
+
+- speaker: 黒丸
+  side: right
+  icon: /images/characters/kuromaru.png
+  text: |-
+    ……すみません。
+    迷惑をおかけしてしまって……
+
+- speaker: 莉波
+  side: left
+  icon: /images/characters/rinami.png
+  text: |-
+    ううん。
+    謝るのは、俺のほうだ。
+
+- speaker: 莉波
+  side: left
+  icon: /images/characters/rinami.png
+  text: |-
+    黒丸は俺のために、
+    こんなに頑張ってくれてるのに、
+
+- speaker: 莉波
+  side: left
+  icon: /images/characters/rinami.png
+  text: |-
+    うまく結果が出せなくて……
+
+- speaker: 黒丸
+  side: right
+  icon: /images/characters/kuromaru.png
+  text: |-
+    そんな……ことは……
+    ありま、せん……
+
+- speaker: 黒丸
+  side: right
+  icon: /images/characters/kuromaru.png
+  text: |-
+    必ず……あなたを……
+    トップアイドルに……
+
+- speaker: 莉波
+  side: left
+  icon: /images/characters/rinami.png
+  text: |-
+    ……熱、まだ下がらないな。
+
+- speaker: 莉波
+  side: left
+  icon: /images/characters/rinami.png
+  text: |-
+    汗もびっしょり。
+    ほら、バンザイして。着替えよう。
+
+- speaker: 黒丸
+  side: right
+  icon: /images/characters/kuromaru.png
+  text: |-
+    え？
+
+- speaker: 莉波
+  side: left
+  icon: /images/characters/rinami.png
+  text: |-
+    汗、拭くから。
+
+- speaker: 莉波
+  side: left
+  icon: /images/characters/rinami.png
+  text: |-
+    そのままにしておくと、
+    また体が冷えるから。
+
+- speaker: 黒丸
+  side: right
+  icon: /images/characters/kuromaru.png
+  text: |-
+    い、いや、さすがに……
+    私も女性、なので……
+
+- speaker: 莉波
+  side: left
+  icon: /images/characters/rinami.png
+  text: |-
+    え？………っあ！！！！！
+
+- speaker: 莉波
+  side: left
+  icon: /images/characters/rinami.png
+  text: |-
+    スマン、本当にやましい気持ちはなくて、その、
+
+- speaker: 黒丸
+  side: right
+  icon: /images/characters/kuromaru.png
+  text: |-
+    大丈夫です。わかっていますよ。
+    バンザイしましょうか？
+
+- speaker: 莉波
+  side: left
+  icon: /images/characters/rinami.png
+  text: |-
+    女の子が簡単に人前で脱いじゃダメだ！
+
+- speaker: 黒丸
+  side: right
+  icon: /images/characters/kuromaru.png
+  text: |-
+    ふふ、すみません……
+
+- speaker: 莉波
+  side: left
+  icon: /images/characters/rinami.png
+  text: |-
+    参ったな……
+    お、俺、お粥作ってくるよ。
+
+- speaker: 莉波
+  side: left
+  icon: /images/characters/rinami.png
+  text: |-
+    ……コホン。
+    ちゃんと着替えて、ちゃんと寝てろよ。
+    全部お兄ちゃんに任せとけ。
+
+- speaker: 黒丸
+  side: right
+  icon: /images/characters/kuromaru.png
+  text: |-
+    すみません……
+    ありがとうございま、す……
+
+- speaker: 黒丸
+  side: right
+  icon: /images/characters/kuromaru.png
+  text: |-
+    （………いつの間にか寝てたみたいだ）
+
+- speaker: 黒丸
+  side: right
+  icon: /images/characters/kuromaru.png
+  text: |-
+    （体が熱い……）
+
+- speaker: 黒丸
+  side: right
+  icon: /images/characters/kuromaru.png
+  text: |-
+    （頬に冷たいものが当たっている。
+    それは私の顔を包み込むほどに大きくて、
+    とっても安心する……）
+
+- speaker: 黒丸
+  side: right
+  icon: /images/characters/kuromaru.png
+  text: |-
+    お兄ちゃん………？
+
+- type: image
+  src: /images/novel/nursing.png
+  alt: 黒丸を看病する莉波
+
+- speaker: 莉波
+  side: left
+  icon: /images/characters/rinami.png
+  text: |-
+    ああ、お前のお兄ちゃんだよ。
+
+- speaker: 黒丸
+  side: right
+  icon: /images/characters/kuromaru.png
+  text: |-
+    手、冷たいですね……
+
+- speaker: 莉波
+  side: left
+  icon: /images/characters/rinami.png
+  text: |-
+    買い出しに行っていたからかな。
+    ほら、水、スポドリ、ゼリー、なんでもあるぞ。
+
+- speaker: 黒丸
+  side: right
+  icon: /images/characters/kuromaru.png
+  text: |-
+    ふふ、買いすぎですよ……
+    ありがとうございます。
+
+- speaker: 莉波
+  side: left
+  icon: /images/characters/rinami.png
+  text: |-
+    ほら、薬もちゃんと飲みなさい。
+
+- speaker: 莉波
+  side: left
+  icon: /images/characters/rinami.png
+  text: |-
+    ゼリーもほら、あーん。
+
+- speaker: 黒丸
+  side: right
+  icon: /images/characters/kuromaru.png
+  text: |-
+    いえ、自分で食べられますので。
+
+- speaker: 莉波
+  side: left
+  icon: /images/characters/rinami.png
+  text: |-
+    こんな時くらい頼ってくれよ。
+
+- speaker: 莉波
+  side: left
+  icon: /images/characters/rinami.png
+  text: |-
+    病気の人は甘えるのが仕事だぞ。
+    はい、あーん。
+
+- speaker: 黒丸
+  side: right
+  icon: /images/characters/kuromaru.png
+  text: |-
+    ……こ、これです。
+
+- speaker: 莉波
+  side: left
+  icon: /images/characters/rinami.png
+  text: |-
+    え？
+
+- speaker: 黒丸
+  side: right
+  icon: /images/characters/kuromaru.png
+  text: |-
+    この感じですよ……
+    今のあなたをステージで出せれば、
+
+- speaker: 黒丸
+  side: right
+  icon: /images/characters/kuromaru.png
+  text: |-
+    誰にも負けない
+    トップアイドル……に……
+
+- speaker: 莉波
+  side: left
+  icon: /images/characters/rinami.png
+  text: |-
+    はいはい、わかったから。
+    今はおとなしく寝なさい。
+
+- speaker: 黒丸
+  side: right
+  icon: /images/characters/kuromaru.png
+  text: |-
+    うぅ、ん……
+
+- speaker: 場面
+  text: |-
+    ——翌朝。
+
+- speaker: 莉波
+  side: left
+  icon: /images/characters/rinami.png
+  text: |-
+    おはよう。黒丸。
+    熱は、もう下がったみたいだな。
+
+- speaker: 黒丸
+  side: right
+  icon: /images/characters/kuromaru.png
+  text: |-
+    ……お陰様で。
+    ご迷惑をおかけしました。
+
+- speaker: 莉波
+  side: left
+  icon: /images/characters/rinami.png
+  text: |-
+    迷惑なんて言うなよ。
+
+- speaker: 莉波
+  side: left
+  icon: /images/characters/rinami.png
+  text: |-
+    ごめんな、俺のせいで、
+    無理させちゃって……
+
+- speaker: 黒丸
+  side: right
+  icon: /images/characters/kuromaru.png
+  text: |-
+    いえ、そんな……
+
+- speaker: 莉波
+  side: left
+  icon: /images/characters/rinami.png
+  text: |-
+    ……あのな。
+    思い出せたような気がするんだ。
+
+- speaker: 莉波
+  side: left
+  icon: /images/characters/rinami.png
+  text: |-
+    黒丸を妹みたいに思ってた、
+    お兄ちゃんだった頃の気持ち。
+
+- speaker: 莉波
+  side: left
+  icon: /images/characters/rinami.png
+  text: |-
+    黒丸に対しての気持ちと、
+    ファンのみんなに対しての気持ち。
+
+- speaker: 莉波
+  side: left
+  icon: /images/characters/rinami.png
+  text: |-
+    まったく同じようにはできないと思う。
+
+- speaker: 莉波
+  side: left
+  icon: /images/characters/rinami.png
+  text: |-
+    でも、少しだけわかった気がする。
+
+- speaker: 莉波
+  side: left
+  icon: /images/characters/rinami.png
+  text: |-
+    今の気持ち、忘れないようにするよ。
+
+- speaker: 黒丸
+  side: right
+  icon: /images/characters/kuromaru.png
+  text: |-
+    ……はい。
+    今のあなたなら、きっと……
+
+- speaker: 莉波
+  side: left
+  icon: /images/characters/rinami.png
+  text: |-
+    次のライブ、しっかり見ていてくれよ。
+
+- speaker: 莉波
+  side: left
+  icon: /images/characters/rinami.png
+  text: |-
+    お前の好きな俺を——
+    見せられると思うから。

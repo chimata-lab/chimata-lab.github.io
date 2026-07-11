@@ -266,6 +266,24 @@ h1 {
 .speaker-ことね .chat-bubble {
     background-color: rgba(250,211,86, 0.4);
 }
+
+/* ---------- 場面説明 ---------- */
+
+.speaker-場面 {
+    align-items: center;
+    text-align: center;
+}
+
+.speaker-場面 .chat-speaker {
+    justify-content: center;
+}
+
+.speaker-場面 .chat-bubble {
+    margin-left: 0;
+    margin-right: 0;
+}
+
+
 /* ---------- ノベルページ：スマホ対応 ---------- */
 
 @media (max-width: 700px) {
@@ -362,4 +380,20 @@ img.link-banner {
 
 img.link-banner:hover {
     opacity: 0.7;
+}
+
+/* ---------- ノベル挿絵 ---------- */
+
+.novel-illustration {
+    margin: 40px auto;
+    text-align: center;
+}
+
+.novel-illustration img {
+    display: block;
+    width: 100%;
+    max-width: 650px;
+    height: auto;
+    margin: 0 auto;
+    border: 1px solid #8a9a75;
 }

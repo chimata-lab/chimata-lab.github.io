@@ -1,0 +1,294 @@
+- speaker: 黒丸
+  side: right
+  icon: /images/characters/kuromaru.png
+  text: |-
+    ——と、いうわけで。
+    さっそく仕事を取ってきました。
+
+- speaker: 莉波
+  side: left
+  icon: /images/characters/rinami.png
+  text: |-
+    ……も、もう！？
+
+- speaker: 莉波
+  side: left
+  icon: /images/characters/rinami.png
+  text: |-
+    もしかして黒丸って……
+    すごい優秀なプロデューサー？
+
+- speaker: 黒丸
+  side: right
+  icon: /images/characters/kuromaru.png
+  text: |-
+    これくらい当然です
+
+- speaker: 莉波
+  side: left
+  icon: /images/characters/rinami.png
+  text: |-
+    そんなことないだろ。すごいな。
+
+- speaker: 黒丸
+  side: right
+  icon: /images/characters/kuromaru.png
+  text: |-
+    仕事を取ってくるのが、
+    プロデューサーの役目なので。
+
+- speaker: 黒丸
+  side: right
+  icon: /images/characters/kuromaru.png
+  text: |-
+    この仕事はきっと、
+    成長のきっかけになると思います。
+
+- speaker: 莉波
+  side: left
+  icon: /images/characters/rinami.png
+  text: |-
+    ああ、ありがとう。
+
+- speaker: 莉波
+  side: left
+  icon: /images/characters/rinami.png
+  text: |-
+    そんなに頼りになると——
+
+- speaker: 莉波
+  side: left
+  icon: /images/characters/rinami.png
+  text: |-
+    やっぱり、妹としては
+    見られないかも……
+
+- speaker: 黒丸
+  side: right
+  icon: /images/characters/kuromaru.png
+  text: |-
+    それは困ります。
+
+- speaker: 莉波
+  side: left
+  icon: /images/characters/rinami.png
+  text: |-
+    ……はは、冗談だ。
+
+- speaker: 莉波
+  side: left
+  icon: /images/characters/rinami.png
+  text: |-
+    でも、あんまり無理はするなよ。
+
+- speaker: 黒丸
+  side: right
+  icon: /images/characters/kuromaru.png
+  text: |-
+    明日の午前中に、
+    現場の下見に行きましょう。
+
+- speaker: 黒丸
+  side: right
+  icon: /images/characters/kuromaru.png
+  text: |-
+    実際にステージを見ておいたほうが
+    本番でのイメージがわきますので。
+
+- speaker: 場面
+  text: |-
+    ——翌朝。
+
+- speaker: 莉波
+  side: left
+  icon: /images/characters/rinami.png
+  text: |-
+    んー、いい天気だな！
+
+- speaker: 黒丸
+  side: right
+  icon: /images/characters/kuromaru.png
+  text: |-
+    ええ。当日も晴れるといいのですが——
+    あそこが今回の野外ステージです。
+
+- speaker: 莉波
+  side: left
+  icon: /images/characters/rinami.png
+  text: |-
+    ここで歌うのか……
+    緊張するな。
+
+- speaker: 黒丸
+  side: right
+  icon: /images/characters/kuromaru.png
+  text: |-
+    大丈夫です。今度のお客さんは、
+    普段のステージとは少し違うので。
+
+- speaker: 黒丸
+  side: right
+  icon: /images/characters/kuromaru.png
+  text: |-
+    さて、下見はしましたし、
+    一度学園に戻りましょうか。
+
+- speaker: 莉波
+  side: left
+  icon: /images/characters/rinami.png
+  text: |-
+    ああ。
+
+- speaker: 場面
+  text: |-
+    ——駅。
+
+- speaker: 莉波
+  side: left
+  icon: /images/characters/rinami.png
+  text: |-
+    この時間は混んでるな……
+    ほら、黒丸。
+
+- speaker: 黒丸
+  side: right
+  icon: /images/characters/kuromaru.png
+  text: |-
+    え？
+
+- speaker: 莉波
+  side: left
+  icon: /images/characters/rinami.png
+  text: |-
+    お兄ちゃんだからさ、
+    手、はぐれないように。
+
+- speaker: 黒丸
+  side: right
+  icon: /images/characters/kuromaru.png
+  text: |-
+    え……？
+    そ、それは、人の目もあるので……
+
+- speaker: 莉波
+  side: left
+  icon: /images/characters/rinami.png
+  text: |-
+    お兄ちゃんになる訓練、じゃないのか？
+    黒丸が言ったんだろう……？
+
+- speaker: 黒丸
+  side: right
+  icon: /images/characters/kuromaru.png
+  text: |-
+    ！
+    た、たしかに、そうかもしれません。
+    じゃあ……
+
+- speaker: 莉波
+  side: left
+  icon: /images/characters/rinami.png
+  text: |-
+    はい。……手、小さいな。
+    こんな小さい手で、頑張ってくれてるんだな……
+
+- speaker: 莉波
+  side: left
+  icon: /images/characters/rinami.png
+  text: |-
+    行こうか。ちゃんと着いてこいよ？
+
+- speaker: 場面
+  text: |-
+    ——電車内。
+
+- speaker: 黒丸
+  side: right
+  icon: /images/characters/kuromaru.png
+  text: |-
+    （時間帯もあって、車内は混み合っている）
+
+- speaker: 莉波
+  side: left
+  icon: /images/characters/rinami.png
+  text: |-
+    ほら、こっちおいで
+
+- speaker: 黒丸
+  side: right
+  icon: /images/characters/kuromaru.png
+  text: |-
+    あ、ありがとうございます。
+    少し時間をずらせばよかったですね。
+    こんなに混んでいるなんて……
+
+- speaker: 莉波
+  side: left
+  icon: /images/characters/rinami.png
+  text: |-
+    仕方ないさ………っうわっ！
+
+- speaker: 車内アナウンス
+  side: left
+  text: |-
+    緊急停止いたします
+
+- speaker: 黒丸
+  side: right
+  icon: /images/characters/kuromaru.png
+  text: |-
+    きゃっ！
+
+- speaker: 莉波
+  side: left
+  icon: /images/characters/rinami.png
+  text: |-
+    黒丸！
+    
+
+- speaker: 黒丸
+  side: right
+  icon: /images/characters/kuromaru.png
+  text: |-
+    ひ、姫崎さん。ありがとうございます
+
+- speaker: 莉波
+  side: left
+  icon: /images/characters/rinami.png
+  text: |-
+    転ばなくてよかった。
+    ゴメンな。とっさに身体触っちゃって
+
+- speaker: 黒丸
+  side: right
+  icon: /images/characters/kuromaru.png
+  text: |-
+    いえ、助かりました
+    ……あの、もう離しても大丈夫ですよ
+
+- speaker: 莉波
+  side: left
+  icon: /images/characters/rinami.png
+  text: |-
+    いや、危ないからこのままで。
+    これもお兄ちゃんになる訓練の一環として、な
+
+- speaker: 黒丸
+  side: right
+  icon: /images/characters/kuromaru.png
+  text: |-
+    これも訓練……な、なるほど……？
+    ではお言葉に甘えます。
+    ありがとうございます。
+
+- speaker: 莉波
+  side: left
+  icon: /images/characters/rinami.png
+  text: |-
+    …………
+
+- speaker: 莉波
+  side: left
+  icon: /images/characters/rinami.png
+  text: |-
+    ああ！ちゃんとつかまってろよ？
