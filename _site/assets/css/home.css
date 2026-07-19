@@ -45,55 +45,242 @@
     pointer-events:none;
 }
 .home-header {
+    position: relative;
+
+    width: 100%;
+    margin-bottom: 30px;
+
+    aspect-ratio: 5 / 1;
+}
+
+.header-frame {
+    position: absolute;
+    inset: 0;
+
+    display: block;
+
+    width: 100%;
+    height: 100%;
+
+    object-fit: fill;
+}
+
+.header-content {
+    position: absolute;
+
+    left: 7%;
+    right: 7%;
+    top: 21%;
+    bottom: 21%;
+
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 16px;
+}
+
+.home-header-logo {
     display: flex;
     align-items: center;
     gap: 14px;
 
-    margin-bottom: 18px;
-    padding: 14px 16px;
-
-    background: #dfe8c9;
-
-    border: 3px solid #4f6849;
-    box-shadow:
-        inset 0 0 0 3px #f6f0d5,
-        4px 4px 0 #9aa57e;
+    min-width: 0;
 }
 
 .home-header-icon {
-    width: 64px;
-    height: 64px;
+    width: clamp(42px, 8vw, 72px);
+    height: clamp(42px, 8vw, 72px);
 
     flex-shrink: 0;
+    object-fit: contain;
 
     image-rendering: pixelated;
+}
+
+.home-header-text {
+    min-width: 0;
 }
 
 .home-header-text h1 {
     margin: 0;
 
-    color: #2f4f35;
-
-    font-family:
-        "MS Gothic",
-        "Courier New",
-        monospace;
-
-    font-size: 36px;
-    letter-spacing: 0.08em;
+    font-size: clamp(22px, 4.5vw, 42px);
     line-height: 1;
+    letter-spacing: 0.08em;
+
+    white-space: nowrap;
 }
 
 .home-header-text p {
-    margin: 8px 0 0;
+    margin: 7px 0 0;
 
-    color: #5f735d;
-
-    font-family:
-        "MS Gothic",
-        "Courier New",
-        monospace;
-
-    font-size: 14px;
+    font-size: clamp(10px, 1.8vw, 14px);
     letter-spacing: 0.08em;
+
+    white-space: nowrap;
+}
+
+.home-header-version {
+    margin: 0;
+
+    flex-shrink: 0;
+
+    font-size: clamp(9px, 1.5vw, 12px);
+    white-space: nowrap;
+}
+
+@media (max-width: 700px) {
+    .home-header {
+        aspect-ratio: 4 / 1;
+    }
+
+    .header-content {
+        left: 8%;
+        right: 8%;
+        top: 18%;
+        bottom: 18%;
+    }
+
+    .home-header-version {
+        display: none;
+    }
+
+    .home-header-logo {
+        gap: 8px;
+    }
+
+    .home-header-text h1 {
+        font-size: clamp(18px, 6vw, 28px);
+        letter-spacing: 0.04em;
+    }
+
+    .home-header-text p {
+        font-size: 10px;
+    }
+}
+
+/* ========================================
+   TODAY'S REPORT
+======================================== */
+
+.todays-report {
+    position: relative;
+
+    margin: 0 0 28px;
+    padding: 20px 22px;
+
+    background-color: #f2f0dc;
+    border: 2px solid #536b59;
+    border-radius: 8px;
+
+    box-shadow:
+        inset 0 0 0 3px rgba(255, 255, 255, 0.6),
+        4px 5px 0 rgba(47, 61, 43, 0.15);
+}
+
+.todays-report::before {
+    content: "";
+
+    position: absolute;
+    top: 8px;
+    right: 8px;
+    bottom: 8px;
+    left: 8px;
+
+    border: 1px dashed rgba(83, 107, 89, 0.45);
+    border-radius: 4px;
+
+    pointer-events: none;
+}
+
+/* 見出しと日付 */
+
+.todays-report-header {
+    position: relative;
+
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-between;
+    gap: 20px;
+
+    margin-bottom: 14px;
+    padding-bottom: 10px;
+
+    border-bottom: 1px solid #8a9a75;
+}
+
+.todays-report-label {
+    margin: 0 0 5px;
+
+    color: #56744c;
+    font-family: Consolas, "Courier New", monospace;
+    font-size: 12px;
+    font-weight: bold;
+    letter-spacing: 0.14em;
+}
+
+.todays-report h2 {
+    margin: 0;
+
+    color: #2f3d2b;
+    font-size: 19px;
+    line-height: 1.4;
+}
+
+.todays-report time {
+    flex-shrink: 0;
+
+    padding-top: 3px;
+
+    color: #64735e;
+    font-family: Consolas, "Courier New", monospace;
+    font-size: 12px;
+}
+
+/* 本文の冒頭 */
+
+.todays-report-body {
+    position: relative;
+
+    color: #364333;
+    font-size: 14px;
+    line-height: 1.9;
+}
+
+/* 続きを読む */
+
+.todays-report-more {
+    position: relative;
+
+    margin: 14px 0 0;
+    text-align: right;
+}
+
+.todays-report-more a {
+    color: #56744c;
+    font-size: 12px;
+    font-weight: bold;
+    text-decoration: none;
+
+    border-bottom: 1px dotted #56744c;
+}
+
+.todays-report-more a:hover {
+    color: #2f3d2b;
+    border-bottom-style: solid;
+}
+
+@media (max-width: 700px) {
+    .todays-report {
+        padding: 18px 17px;
+    }
+
+    .todays-report-header {
+        display: block;
+    }
+
+    .todays-report time {
+        display: block;
+        margin-top: 7px;
+    }
 }

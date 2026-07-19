@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="ja">
 
-<head>
+
  <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -14,7 +14,7 @@
     <link rel="stylesheet" href="/assets/css/diary.css">
     <link rel="stylesheet" href="/assets/css/novel.css">
 </head>
-</head>
+
 
 <body>
 
@@ -38,63 +38,226 @@
 
     </section>
 
-    <section class="side-panel">
+    <section class="side-panel contents-panel">
 
-        <h2>CONTENTS</h2>
+    <h2>— CONTENTS —</h2>
 
-        <ul>
-            <li><a href="/">トップ</a></li>
-            <li><a href="/jikosho.html">ちまたとは？</a></li>
-            <li><a href="/suki.html">ちまたの好きなものすべて</a></li>
-            <li><a href="/diary/">ちまたの日記</a></li>
-            <li><a href="/novel/rinami/index.html">【夢】私と莉波おにいちゃん</a></li>
-            <li><a href="/link.html">LINK</a></li>
-        </ul>
+    <nav class="side-menu">
 
-    </section>
+    <!-- TOP -->
+    <a href="/"
+       class="side-menu-item active">
+        <span class="side-menu-icon">⌂</span>
 
-    <section class="side-panel">
+        <span class="side-menu-text">
+            <strong>TOP</strong>
+            <small>トップ</small>
+        </span>
+    </a>
 
-        <h2>UPDATE</h2>
+    <!-- ABOUT -->
+    <a href="/jikosho.html"
+       class="side-menu-item">
+        <span class="side-menu-icon">⚗</span>
 
-        <p>
+        <span class="side-menu-text">
+            <strong>ABOUT</strong>
+            <small>ちまたについて</small>
+        </span>
+    </a>
 
-            2026.07.18<br>
-            日記を更新
+    <!-- FAVORITES -->
+    <a href="/suki.html"
+       class="side-menu-item">
+        <span class="side-menu-icon">☆</span>
 
-            <br><br>
+        <span class="side-menu-text">
+            <strong>FAVORITES</strong>
+            <small>好きなもの</small>
+        </span>
+    </a>
 
-            2026.07.16<br>
-            日記を更新
+    <!-- DIARY -->
+    <a href="/diary/"
+       class="side-menu-item">
+        <span class="side-menu-icon">▤</span>
 
-            <br><br>
+        <span class="side-menu-text">
+            <strong>DIARY</strong>
+            <small>観察日誌</small>
+        </span>
+    </a>
 
-            2026.07.13<br>
-            日記・好きなものすべてを更新
+    <!-- NOVEL -->
+    <a href="/novel/rinami/index.html"
+       class="side-menu-item">
+        <span class="side-menu-icon">✎</span>
 
-            <br><br>
+        <span class="side-menu-text">
+            <strong>NOVEL</strong>
+            <small>創作記録</small>
+        </span>
+    </a>
 
-            2026.07.10<br>
-            サイト開設
+    <!-- LINK -->
+    <a href="/link.html"
+       class="side-menu-item">
+        <span class="side-menu-icon">⌁</span>
 
-        </p>
+        <span class="side-menu-text">
+            <strong>LINK</strong>
+            <small>リンク集</small>
+        </span>
+    </a>
 
-    </section>
+</nav>
+
+</section>
+
+    <section class="side-panel update-panel">
+
+    <h2>— UPDATE —</h2>
+
+    <div class="update-list">
+        
+
+            <div class="update-item update-site">
+
+                <div class="update-meta">
+                    <span class="update-category">
+                        
+                                SITE
+                            
+                    </span>
+
+                    <time datetime="2026-07-19">
+                        2026.07.19
+                    </time>
+                </div>
+
+                <p>
+                    
+                     <a href="/">サイドバーメニューを更新</a>
+                     
+                </p>
+
+            </div>
+
+        
+
+            <div class="update-item update-diary">
+
+                <div class="update-meta">
+                    <span class="update-category">
+                        
+                                DIARY
+                            
+                    </span>
+
+                    <time datetime="2026-07-18">
+                        2026.07.18
+                    </time>
+                </div>
+
+                <p>
+                    
+                     <a href="/diary/">日記を更新</a>
+                     
+                </p>
+
+            </div>
+
+        
+
+            <div class="update-item update-novel">
+
+                <div class="update-meta">
+                    <span class="update-category">
+                        
+                                NOVEL
+                            
+                    </span>
+
+                    <time datetime="2026-07-16">
+                        2026.07.16
+                    </time>
+                </div>
+
+                <p>
+                    
+                     <a href="/novel/rinami/index.html">小説を更新</a>
+                     
+                </p>
+
+            </div>
+
+        
+
+            <div class="update-item update-favorite">
+
+                <div class="update-meta">
+                    <span class="update-category">
+                        
+                                FAVORITE
+                            
+                    </span>
+
+                    <time datetime="2026-07-13">
+                        2026.07.13
+                    </time>
+                </div>
+
+                <p>
+                    
+                     <a href="/suki.html">好きなものを更新</a>
+                     
+                </p>
+
+            </div>
+
+        
+    </div>
+    <a href="/updates.html" class="update-archive-link">
+    ＋ 過去の更新を見る
+</a>
+
+
+</section>
 
 </aside>
 
         <main class="main-content">
             <header class="home-header">
+
   <img
-    src="/images/icons/flask.png"
+    src="/assets/ui/header-frame.png"
     alt=""
-    class="home-header-icon"
+    class="header-frame"
   >
 
-  <div class="home-header-text">
-    <h1>CHIMATA LAB</h1>
-    <p>internet since 2026</p>
+  <div class="header-content">
+
+    <div class="home-header-logo">
+
+      <img
+        src="/images/icons/flask.png"
+        alt=""
+        class="home-header-icon"
+      >
+
+      <div class="home-header-text">
+        <h1>CHIMATA LAB</h1>
+        <p>internet since 2026</p>
+      </div>
+
+    </div>
+
+    <p class="home-header-version">
+      ver.2026.07
+    </p>
+
   </div>
+
 </header>
 
 <div class="space-window">
@@ -115,6 +278,35 @@
 報告は任意ですが、
 教えていただけると喜んで遊びに行きます🌱
 </p>
+
+
+<section class="todays-report">
+
+    <div class="todays-report-header">
+        <div>
+            <p class="todays-report-label">TODAY'S REPORT</p>
+            <h2>デオちのブレスレット</h2>
+        </div>
+
+        <time datetime="2026-07-18">
+            2026.07.18
+        </time>
+    </div>
+
+    <div class="todays-report-body">
+        つくりました。デオち（デオちとはポケットモンスター図鑑No.386エスパータイプDNAポケモン隕石に付着していた宇宙ウイルスのDNAが変異して生まれたポケモンのデオキシスのことです。このサイトではデオキシスのことはデオちと呼びます）のコアの紫、二重らせん構造・メインカラーのオレンジと青でつくり...
+    </div>
+
+    <p class="todays-report-more">
+        <a href="/2026/07/18/a.html">
+            REPORTのつづきを読む →
+        </a>
+    </p>
+
+</section>
+
+
+
 
         </main>
 

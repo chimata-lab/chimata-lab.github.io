@@ -430,3 +430,276 @@ img.link-banner:hover {
 .sidebar a:hover {
     color: #fff7a8;
 }
+
+/* ========================================
+   サイドバー：メニュー
+======================================== */
+
+.side-panel {
+    padding: 15px 12px;
+    border: 1px solid rgba(216, 207, 146, 0.75);
+    border-radius: 12px;
+}
+
+.side-panel + .side-panel {
+    margin-top: 16px;
+}
+
+.side-panel h2 {
+    margin: 0 0 14px;
+    padding-bottom: 9px;
+
+    color: #f4edc9;
+    font-size: 15px;
+    font-weight: normal;
+    letter-spacing: 0.12em;
+    text-align: center;
+
+    border-bottom: 1px dotted rgba(216, 207, 146, 0.55);
+}
+
+/* メニュー全体 */
+
+.side-menu {
+    display: flex;
+    flex-direction: column;
+    gap: 4px;
+}
+
+/* メニュー1項目 */
+
+.side-menu-item {
+    display: flex;
+    align-items: center;
+    gap: 13px;
+
+    min-height: 47px;
+    padding: 7px 8px;
+
+    color: #f4edc9;
+    text-decoration: none;
+
+    border: 1px solid transparent;
+    border-radius: 8px;
+
+    transition:
+        background-color 0.2s ease,
+        border-color 0.2s ease,
+        transform 0.2s ease;
+}
+
+/* アイコン */
+
+.side-menu-icon {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-shrink: 0;
+
+    width: 32px;
+    height: 32px;
+
+    color: #eee5ad;
+    font-family: "MS PGothic", "Meiryo", sans-serif;
+    font-size: 27px;
+    line-height: 1;
+}
+
+/* 英語・日本語部分 */
+
+.side-menu-text {
+    display: flex;
+    flex-direction: column;
+    min-width: 0;
+}
+
+.side-menu-text strong {
+    color: #fff8ca;
+    font-size: 16px;
+    font-weight: normal;
+    letter-spacing: 0.04em;
+    line-height: 1.15;
+}
+
+.side-menu-text small {
+    margin-top: 2px;
+
+    color: #d9d2aa;
+    font-size: 12px;
+    line-height: 1.25;
+}
+
+/* マウスを重ねたとき */
+
+.side-menu-item:hover {
+    background-color: rgba(255, 255, 255, 0.08);
+    border-color: rgba(216, 207, 146, 0.5);
+    transform: translateX(3px);
+}
+
+.side-menu-item:hover .side-menu-icon,
+.side-menu-item:hover strong {
+    color: #fff6a9;
+}
+
+/* キーボード操作時 */
+
+.side-menu-item:focus-visible {
+    outline: 2px solid #fff6a9;
+    outline-offset: 2px;
+}
+
+/* ========================================
+   サイドバー：更新履歴
+======================================== */
+
+.update-list {
+    display: flex;
+    flex-direction: column;
+}
+
+.update-item {
+    padding: 11px 2px;
+    border-bottom: 1px dotted rgba(216, 207, 146, 0.45);
+}
+
+.update-item:first-child {
+    padding-top: 0;
+}
+
+.update-item:last-child {
+    padding-bottom: 0;
+    border-bottom: none;
+}
+
+/* カテゴリーと日付の行 */
+
+.update-meta {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 8px;
+}
+
+/* カテゴリー名 */
+
+.update-category {
+    display: inline-block;
+    padding: 2px 5px;
+
+    color: #fff8ca;
+    font-size: 9px;
+    line-height: 1.2;
+    letter-spacing: 0.06em;
+
+    border: 1px solid rgba(216, 207, 146, 0.65);
+    border-radius: 3px;
+}
+
+/* 日付 */
+
+.update-item time {
+    color: #d9d2aa;
+    font-family: Consolas, "Courier New", monospace;
+    font-size: 11px;
+    letter-spacing: 0.02em;
+}
+
+/* 更新内容 */
+
+.update-item p {
+    margin: 5px 0 0;
+
+    color: #e2ddbd;
+    font-size: 12px;
+    line-height: 1.6;
+}
+
+.update-item p a {
+    color: #e2ddbd;
+    text-decoration: none;
+    border-bottom: 1px dotted rgba(226, 221, 189, 0.55);
+}
+
+.update-item p a:hover {
+    color: #fff8ca;
+    border-bottom-color: #fff8ca;
+}
+
+/* ========================================
+   更新履歴：過去ログページ
+======================================== */
+
+.updates-intro {
+    margin-bottom: 24px;
+}
+
+.updates-archive {
+    max-width: 650px;
+}
+
+.archive-update-item {
+    padding: 16px 4px;
+    border-bottom: 1px dotted #8a9a75;
+}
+
+.archive-update-item:first-child {
+    padding-top: 0;
+}
+
+.archive-update-meta {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.archive-update-meta time {
+    color: #56744c;
+    font-family: Consolas, "Courier New", monospace;
+    font-size: 13px;
+    font-weight: bold;
+}
+
+.archive-update-category {
+    display: inline-block;
+    padding: 2px 6px;
+
+    color: #56744c;
+    font-size: 10px;
+    letter-spacing: 0.05em;
+
+    border: 1px solid #8a9a75;
+    border-radius: 3px;
+}
+
+.archive-update-item p {
+    margin: 7px 0 0;
+    line-height: 1.7;
+}
+
+.archive-update-item p a {
+    color: #2f3d2b;
+    text-decoration: none;
+    border-bottom: 1px dotted #8a9a75;
+}
+
+.archive-update-item p a:hover {
+    color: #56744c;
+    border-bottom-style: solid;
+}
+.update-archive-link {
+    display: block;
+    margin-top: 12px;
+    padding-top: 9px;
+
+    color: #d9d2aa;
+    font-size: 11px;
+    text-align: right;
+    text-decoration: none;
+
+    border-top: 1px dotted rgba(216, 207, 146, 0.45);
+}
+
+.update-archive-link:hover {
+    color: #fff8ca;
+}

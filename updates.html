@@ -1,0 +1,55 @@
+---
+layout: default
+title: 更新履歴
+---
+
+<h1>更新履歴</h1>
+
+<p class="updates-intro">
+    CHIMATA LABの更新記録です。
+</p>
+
+<div class="updates-archive">
+
+    {% for update in site.data.updates %}
+
+        <article class="archive-update-item update-{{ update.category }}">
+
+            <div class="archive-update-meta">
+
+                <time datetime="{{ update.date }}">
+                    {{ update.date | date: "%Y.%m.%d" }}
+                </time>
+
+                <span class="archive-update-category">
+                    {% case update.category %}
+                        {% when "site" %}
+                            SITE
+                        {% when "diary" %}
+                            DIARY
+                        {% when "novel" %}
+                            NOVEL
+                        {% when "favorite" %}
+                            FAVORITE
+                        {% else %}
+                            UPDATE
+                    {% endcase %}
+                </span>
+
+            </div>
+
+            <p>
+                {% if update.url %}
+                    <a href="{{ update.url }}">
+                        {{ update.text }}
+                    </a>
+                {% else %}
+                    {{ update.text }}
+                {% endif %}
+            </p>
+
+        </article>
+
+    {% endfor %}
+
+</div>

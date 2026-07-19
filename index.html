@@ -4,16 +4,36 @@ title: トップ
 ---
 
 <header class="home-header">
+
   <img
-    src="/images/icons/flask.png"
+    src="{{ '/assets/ui/header-frame.png' | relative_url }}"
     alt=""
-    class="home-header-icon"
+    class="header-frame"
   >
 
-  <div class="home-header-text">
-    <h1>CHIMATA LAB</h1>
-    <p>internet since 2026</p>
+  <div class="header-content">
+
+    <div class="home-header-logo">
+
+      <img
+        src="{{ '/images/icons/flask.png' | relative_url }}"
+        alt=""
+        class="home-header-icon"
+      >
+
+      <div class="home-header-text">
+        <h1>CHIMATA LAB</h1>
+        <p>internet since 2026</p>
+      </div>
+
+    </div>
+
+    <p class="home-header-version">
+      ver.2026.07
+    </p>
+
   </div>
+
 </header>
 
 <div class="space-window">
@@ -23,7 +43,7 @@ title: トップ
     class="welcome-image"
   >
 </div>
-
+{% assign latest_post = site.posts.first %}
 
 <p>ちまたラボにようこそ</p>
 
@@ -34,3 +54,36 @@ title: トップ
 報告は任意ですが、
 教えていただけると喜んで遊びに行きます🌱
 </p>
+
+{% if latest_post %}
+<section class="todays-report">
+
+    <div class="todays-report-header">
+        <div>
+            <p class="todays-report-label">TODAY'S REPORT</p>
+            <h2>{{ latest_post.title }}</h2>
+        </div>
+
+        <time datetime="{{ latest_post.date | date: '%Y-%m-%d' }}">
+            {{ latest_post.date | date: "%Y.%m.%d" }}
+        </time>
+    </div>
+
+    <div class="todays-report-body">
+        {{ latest_post.content
+            | strip_html
+            | strip_newlines
+            | truncate: 150
+        }}
+    </div>
+
+    <p class="todays-report-more">
+        <a href="{{ latest_post.url | relative_url }}">
+            REPORTのつづきを読む →
+        </a>
+    </p>
+
+</section>
+{% endif %}
+
+
