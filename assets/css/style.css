@@ -1,9 +1,35 @@
 body {
     margin: 0;
-    padding: 0;
-    background-color: #c6d8b5;
+
+    background-color: #aebd9f;
+    background-image: url("/images/background/stars.png");
+    background-repeat: repeat;
+    background-size: 900px auto;
+    background-attachment: fixed;
+
     color: #2f3d2b;
-    font-family: "MS PGothic", "Meiryo", sans-serif;
+
+}
+body::before{
+    content:"";
+
+    position:fixed;
+
+    inset:0;
+
+    pointer-events:none;
+
+    background-image:
+
+    radial-gradient(circle at 20% 25%, rgba(255,255,255,.7) 2px, transparent 3px),
+
+    radial-gradient(circle at 70% 40%, rgba(255,250,180,.8) 1.5px, transparent 3px),
+
+    radial-gradient(circle at 40% 80%, rgba(255,255,255,.6) 2px, transparent 3px),
+
+    radial-gradient(circle at 90% 15%, rgba(255,250,180,.7) 2px, transparent 3px);
+
+    z-index:-1;
 }
 
 .site-wrapper {
@@ -27,31 +53,29 @@ body {
     background-color: #fffdf5;
     border: 1px solid #8a9a75;
 }
+.sidebar {
+    width: 220px;
+    flex-shrink: 0;
 
-.sidebar h2 {
-    margin-top: 20px;
-    padding: 4px;
-    background-color: #56744c;
-    color: white;
-    font-size: 16px;
-    text-align: center;
-    border: 2px outset #8eaa7e;
-}
+    padding: 16px;
 
-.sidebar ul {
-    padding-left: 20px;
-}
+    color: #f4edc9;
 
-.sidebar a {
-    color: #375f8a;
-}
+    background:
+        radial-gradient(circle at 20% 20%, rgba(255,255,255,.12) 1px, transparent 2px),
+        radial-gradient(circle at 75% 40%, rgba(255,245,180,.10) 1px, transparent 2px),
+        #17382f;
 
-.sidebar a:hover {
-    color: #b34242;
-}
+    background-size:
+        55px 55px,
+        90px 90px;
 
-h1 {
-    border-bottom: 3px double #56744c;
+    border: 1px solid #d8cf92;
+    border-radius: 18px;
+
+    box-shadow:
+        4px 6px 0 rgba(40, 61, 49, 0.28),
+        inset 0 0 0 3px rgba(255,255,255,.05);
 }
 
 @media (max-width: 700px) {
@@ -398,6 +422,11 @@ img.link-banner:hover {
     border: 1px solid #8a9a75;
 }
 
-/* ---------- まーくだうん---------- */
 
-white-space: pre-line;
+.sidebar a {
+    color: #f4edc9;
+}
+
+.sidebar a:hover {
+    color: #fff7a8;
+}
