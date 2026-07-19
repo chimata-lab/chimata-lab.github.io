@@ -1,4 +1,9 @@
 - date: 2026-07-19
+  text: 日記を更新
+  category: diary
+  url: /diary/
+
+- date: 2026-07-19
   text: サイドバーメニューを更新
   category: site
   url: /
